@@ -1,16 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Academic</title>
+    <title>Tags | ADAL</title>
     <link>https://bluejayadal.github.io/tags/</link>
       <atom:link href="https://bluejayadal.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© ADAL 2020</copyright><lastBuildDate>Tue, 03 Mar 2020 22:56:14 -0500</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://bluejayadal.github.io/images/icon_hu67d8132adf6916bc3e83a7d6cad86df0_8135_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
       <link>https://bluejayadal.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Reinforcement Learning</title>
+      <link>https://bluejayadal.github.io/tags/reinforcement-learning/</link>
+      <pubDate>Tue, 03 Mar 2020 22:56:14 -0500</pubDate>
+      <guid>https://bluejayadal.github.io/tags/reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unity</title>
+      <link>https://bluejayadal.github.io/tags/unity/</link>
+      <pubDate>Tue, 03 Mar 2020 22:56:14 -0500</pubDate>
+      <guid>https://bluejayadal.github.io/tags/unity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ETA</title>
+      <link>https://bluejayadal.github.io/tags/eta/</link>
+      <pubDate>Tue, 03 Mar 2020 22:55:15 -0500</pubDate>
+      <guid>https://bluejayadal.github.io/tags/eta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://bluejayadal.github.io/tags/machine-learning/</link>
+      <pubDate>Tue, 03 Mar 2020 22:55:15 -0500</pubDate>
+      <guid>https://bluejayadal.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recruitment</title>
+      <link>https://bluejayadal.github.io/tags/recruitment/</link>
+      <pubDate>Tue, 03 Mar 2020 18:16:49 -0500</pubDate>
+      <guid>https://bluejayadal.github.io/tags/recruitment/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

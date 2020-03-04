@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peilong Li | ADAL</title>
+    <link>https://bluejayadal.github.io/authors/peilong-li/</link>
+      <atom:link href="https://bluejayadal.github.io/authors/peilong-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peilong Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© ADAL 2020</copyright><lastBuildDate>Tue, 03 Mar 2020 22:48:13 -0500</lastBuildDate>
+    <image>
+      <url>https://bluejayadal.github.io/images/icon_hu67d8132adf6916bc3e83a7d6cad86df0_8135_512x512_fill_lanczos_center_2.png</url>
+      <title>Peilong Li</title>
+      <link>https://bluejayadal.github.io/authors/peilong-li/</link>
+    </image>
+    
+    <item>
+      <title>ACETA: Accelerating Encrypted Traffic Analytics on Network Edge</title>
+      <link>https://bluejayadal.github.io/publication/2020-icc-aceta/</link>
+      <pubDate>Tue, 03 Mar 2020 22:48:13 -0500</pubDate>
+      <guid>https://bluejayadal.github.io/publication/2020-icc-aceta/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

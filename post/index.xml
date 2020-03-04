@@ -1,16 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Academic</title>
+    <title>Recent News | ADAL</title>
     <link>https://bluejayadal.github.io/post/</link>
       <atom:link href="https://bluejayadal.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <description>Recent News</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© ADAL 2020</copyright><lastBuildDate>Tue, 03 Mar 2020 18:16:49 -0500</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Posts</title>
+      <url>https://bluejayadal.github.io/images/icon_hu67d8132adf6916bc3e83a7d6cad86df0_8135_512x512_fill_lanczos_center_2.png</url>
+      <title>Recent News</title>
       <link>https://bluejayadal.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Are you interested in joining BlueJay ADAL?</title>
+      <link>https://bluejayadal.github.io/post/join-us/</link>
+      <pubDate>Tue, 03 Mar 2020 18:16:49 -0500</pubDate>
+      <guid>https://bluejayadal.github.io/post/join-us/</guid>
+      <description>&lt;p&gt;We are always interested in recruiting talented students to join our research group. We also welcome inter-department and industry collaboration.&lt;/p&gt;
+&lt;h2 id=&#34;signature-learning-experience&#34;&gt;Signature Learning Experience&lt;/h2&gt;
+&lt;p&gt;Undergraduate students can pursue research experiences in ADAL as an &lt;a href=&#34;https://www.etown.edu/offices/registration-records/sle-list.aspx&#34;&gt;Signature Learning Experience&lt;/a&gt; (i.e. senior project) that can be counted towards your graduation credits. Possible courses under our supervision are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;EGR 401/402 Senior Project in Engineering I/II&lt;/li&gt;
+&lt;li&gt;CS 400 Projects in Computing&lt;/li&gt;
+&lt;li&gt;CS 495 Honors Projects in Computing&lt;/li&gt;
+&lt;li&gt;DS 452 Data Science Capstone.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;summer-creative-arts-and-research-program&#34;&gt;Summer Creative Arts and Research Program&lt;/h2&gt;
+&lt;p&gt;Another way of participation is through the Summer Creative Arts and Research Program (&lt;a href=&#34;https://www.etown.edu/offices/research/summer-scholarship.aspx&#34;&gt;SCARP&lt;/a&gt;) from which you can get up to 10-week-long paid research work plus free meal and board on campus.&lt;/p&gt;
+&lt;p&gt;We welcome applications from computer science, engineering, mathematics, chemistry or biology majors. Applicants should have proficient programming experience in Python and Java, and be familiar with software development environments and tools in Linux. The ideal applicants should also have taken &lt;em&gt;DS200 Intro to Data Science&lt;/em&gt; and &lt;em&gt;DS300 Data Mining&lt;/em&gt; offered by the Data Science Major at Etown College. The student researcher will be expected to work effectively both independently and with other colleagues as required.&lt;/p&gt;
+&lt;h2 id=&#34;other-opportunities&#34;&gt;Other Opportunities&lt;/h2&gt;
+&lt;p&gt;Projects funded by external funding agencies are available from time to time. Students could potentially work as research assistants during regular semesters, however the screening process is very strict.&lt;/p&gt;
+&lt;p&gt;If you have any questions about the undergraduate research opportunities in our laboratory, you can contact &lt;a href=&#34;mailto:lip@etown.edu&#34;&gt;Dr. Li&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

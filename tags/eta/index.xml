@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ETA | ADAL</title>
+    <link>https://bluejayadal.github.io/tags/eta/</link>
+      <atom:link href="https://bluejayadal.github.io/tags/eta/index.xml" rel="self" type="application/rss+xml" />
+    <description>ETA</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© ADAL 2020</copyright><lastBuildDate>Tue, 03 Mar 2020 22:55:15 -0500</lastBuildDate>
+    <image>
+      <url>https://bluejayadal.github.io/images/icon_hu67d8132adf6916bc3e83a7d6cad86df0_8135_512x512_fill_lanczos_center_2.png</url>
+      <title>ETA</title>
+      <link>https://bluejayadal.github.io/tags/eta/</link>
+    </image>
+    
+    <item>
+      <title>ACETA: Encrypted Network Traffic Analytics</title>
+      <link>https://bluejayadal.github.io/project/aceta/</link>
+      <pubDate>Tue, 03 Mar 2020 22:55:15 -0500</pubDate>
+      <guid>https://bluejayadal.github.io/project/aceta/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Encrypted network traffic is the major form of the data transmitting over the Internet today. According to the statistics, 94% of all Google web traffic is encrypted as of July 2019. In 2019 alone, the encryption certificates issued per day is over 1 million. While protecting the privacy and providing security for enterprises, encryption technology also benefits evaders to secure their malicious activities.&lt;/p&gt;
+&lt;p&gt;Traditional solutions to identify network threats fall into two major categories: 1) deep packet inspection and signatures; and 2) offline network pattern modeling. However, the first category is not applicable on encrypted traffic. Furthermore, solutions that work on decrypted network data will compromise the user privacy and data integrity, and are computationally intensive. By passively monitoring malicious behaviors on a session-based level, the second category of traditional solutions demonstrate high accuracy and low false positives. However, training machine learning models, and inferencing with effective models in a timely fashion are challenging due to the high computational power and low response latency requirements.&lt;/p&gt;
+&lt;p&gt;With the recent adoption of network function virtualization (NFV) technology, enterprises start to deploy universal customer premises equipment (uCPE) on their network edge to perform complex network functionality including encrypted traffic analytics (ETA). Such uCPE equipments rely on commodity x86 platforms to enable virtual network functions provisioned without pre-configuration or manual operations. Meanwhile, recent innovation on x86 multicore systems, such as the Intel Data Analytics Acceleration Library (DAAL) for machine learning and the Intel OpenVINO toolkit for computer vision and neural networks, have enabled ETA to render faster training and inference and analyze larger data sets with available compute resources on x86 uCPE equipments. The library also exploits the next-generation processors such as Intel Xeon D to render optimal performance. By exploiting DAAL and OpenVINO, we can greatly accelerate the ETA speed without compromising performance.&lt;/p&gt;
+&lt;p&gt;In this project, we propose to leverage Intel x86 multicore platforms with the aforementioned software to design an ETA system named &lt;code&gt;ACETA&lt;/code&gt; with accelerated model training and inference. Specifically, we contribute in the three following aspects. 1) We seek to study the Cisco’s open-sourced ETA software named &lt;code&gt;Joy&lt;/code&gt; as the reference design, and extend Joy with three new machine learning models and test them with a new open-source dataset. 2) We optimize the ETA pipeline in the proposed software package ACETA with multithreading and Intel software packages to render faster training and inference speed without sacrificing performance. 3) We conduct thorough performance evaluation and comparison between Joy and ACETA for future reference.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

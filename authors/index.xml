@@ -1,24 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Academic</title>
+    <title>Authors | ADAL</title>
     <link>https://bluejayadal.github.io/authors/</link>
       <atom:link href="https://bluejayadal.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© ADAL 2020</copyright><lastBuildDate>Tue, 03 Mar 2020 22:48:13 -0500</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://bluejayadal.github.io/images/icon_hu67d8132adf6916bc3e83a7d6cad86df0_8135_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
       <link>https://bluejayadal.github.io/authors/</link>
     </image>
     
     <item>
+      <title>Derek Manning</title>
+      <link>https://bluejayadal.github.io/authors/derek-manning/</link>
+      <pubDate>Tue, 03 Mar 2020 22:48:13 -0500</pubDate>
+      <guid>https://bluejayadal.github.io/authors/derek-manning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peilong Li</title>
+      <link>https://bluejayadal.github.io/authors/peilong-li/</link>
+      <pubDate>Tue, 03 Mar 2020 22:48:13 -0500</pubDate>
+      <guid>https://bluejayadal.github.io/authors/peilong-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tong Zhang</title>
+      <link>https://bluejayadal.github.io/authors/tong-zhang/</link>
+      <pubDate>Tue, 03 Mar 2020 22:48:13 -0500</pubDate>
+      <guid>https://bluejayadal.github.io/authors/tong-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weigang Li</title>
+      <link>https://bluejayadal.github.io/authors/weigang-li/</link>
+      <pubDate>Tue, 03 Mar 2020 22:48:13 -0500</pubDate>
+      <guid>https://bluejayadal.github.io/authors/weigang-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaoban Wu</title>
+      <link>https://bluejayadal.github.io/authors/xiaoban-wu/</link>
+      <pubDate>Tue, 03 Mar 2020 22:48:13 -0500</pubDate>
+      <guid>https://bluejayadal.github.io/authors/xiaoban-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yan Luo</title>
+      <link>https://bluejayadal.github.io/authors/yan-luo/</link>
+      <pubDate>Tue, 03 Mar 2020 22:48:13 -0500</pubDate>
+      <guid>https://bluejayadal.github.io/authors/yan-luo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://bluejayadal.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 03 Mar 2020 18:16:49 -0500</pubDate>
       <guid>https://bluejayadal.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+      <description>&lt;h3 id=&#34;unleash-the-power-of-data-and-your-imagination&#34;&gt;&lt;em&gt;Unleash the power of data and your imagination&lt;/em&gt;&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;Welcome to the Advanced Data Analytics Lab (ADAL) at Elizabethtown College. Our research focuses on two broad areas: (i) &lt;strong&gt;data analytics&lt;/strong&gt;: the delivery of new knowledge from enormous data with statistical modeling and machine learning, and (ii) &lt;strong&gt;distributed systems&lt;/strong&gt;: the development of distribute computing, networking and storage frameworks such as big data frameworks and blockchain systems.&lt;/p&gt;
+&lt;p&gt;The Principal Investigator, Peilong Li, Ph.D., is an assistant professor of the Department of Computer Science at Elizabethtown College. He also oversees the Data Science Major in the department. He has received national and international wide recognition for his research and service contributions. For more details, visit his personal &lt;a href=&#34;https://peilong.github.io/&#34;&gt;website&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;what-to-expect-from-adal&#34;&gt;What to expect from ADAL&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Awaken your enthusiasm in data science&lt;/li&gt;
+&lt;li&gt;Complete a data science project as an &lt;a href=&#34;https://www.etown.edu/offices/registration-records/sle-list.aspx&#34;&gt;Signature Learning Experience (SLE)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Work as a student researcher during summer (&lt;a href=&#34;https://www.etown.edu/offices/research/summer-scholarship.aspx&#34;&gt;SCARP&lt;/a&gt;) and regular semesters&lt;/li&gt;
+&lt;li&gt;Pursue your career as a &lt;a href=&#34;https://trends.google.com/trends/explore?cat=958&amp;amp;date=2010-02-03%202020-03-03&amp;amp;geo=US&amp;amp;q=data%20scientist&#34;&gt;data scientist&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
