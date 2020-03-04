@@ -3,8 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://bluejayadal.github.io/authors/admin/</loc>
+    <lastmod>2020-03-04T15:47:50-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bluejayadal.github.io/</loc>
-    <lastmod>2020-03-03T22:56:14-05:00</lastmod>
+    <lastmod>2020-03-04T15:47:50-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/authors/</loc>
+    <lastmod>2020-03-04T15:47:50-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/post/2020-netaml-workshop/</loc>
+    <lastmod>2020-03-04T15:31:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/tags/pc-member/</loc>
+    <lastmod>2020-03-04T15:31:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/post/</loc>
+    <lastmod>2020-03-04T15:47:50-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/tags/service/</loc>
+    <lastmod>2020-03-04T15:31:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/tags/</loc>
+    <lastmod>2020-03-04T15:47:50-05:00</lastmod>
   </url>
   
   <url>
@@ -19,11 +54,6 @@
   
   <url>
     <loc>https://bluejayadal.github.io/tags/reinforcement-learning/</loc>
-    <lastmod>2020-03-03T22:56:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bluejayadal.github.io/tags/</loc>
     <lastmod>2020-03-03T22:56:14-05:00</lastmod>
   </url>
   
@@ -54,11 +84,6 @@
   
   <url>
     <loc>https://bluejayadal.github.io/publication/2020-icc-aceta/</loc>
-    <lastmod>2020-03-03T22:48:13-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bluejayadal.github.io/authors/</loc>
     <lastmod>2020-03-03T22:48:13-05:00</lastmod>
   </url>
   
@@ -103,23 +128,23 @@
   </url>
   
   <url>
-    <loc>https://bluejayadal.github.io/authors/admin/</loc>
-    <lastmod>2020-03-03T18:16:49-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bluejayadal.github.io/post/join-us/</loc>
-    <lastmod>2020-03-03T18:16:49-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bluejayadal.github.io/post/</loc>
     <lastmod>2020-03-03T18:16:49-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://bluejayadal.github.io/tags/recruitment/</loc>
     <lastmod>2020-03-03T18:16:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/tags/paper/</loc>
+    <lastmod>2020-03-04T15:47:50-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/post/2019-icc-aceta/</loc>
+    <lastmod>2020-03-04T15:47:50-05:00</lastmod>
   </url>
   
   <url>

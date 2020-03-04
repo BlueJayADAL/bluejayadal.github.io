@@ -5,12 +5,29 @@
     <link>https://bluejayadal.github.io/authors/</link>
       <atom:link href="https://bluejayadal.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© ADAL 2020</copyright><lastBuildDate>Tue, 03 Mar 2020 22:48:13 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© ADAL 2020</copyright><lastBuildDate>Wed, 04 Mar 2020 15:31:13 -0500</lastBuildDate>
     <image>
       <url>https://bluejayadal.github.io/images/icon_hu67d8132adf6916bc3e83a7d6cad86df0_8135_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
       <link>https://bluejayadal.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>https://bluejayadal.github.io/authors/admin/</link>
+      <pubDate>Wed, 04 Mar 2020 15:31:13 -0500</pubDate>
+      <guid>https://bluejayadal.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Welcome to the Advanced Data Analytics Lab (ADAL) at Elizabethtown College. Our research focuses on two broad areas: (i) &lt;strong&gt;data analytics&lt;/strong&gt;: the delivery of new knowledge from enormous data with statistical modeling and machine learning, and (ii) &lt;strong&gt;distributed systems&lt;/strong&gt;: the development of distribute computing, networking and storage frameworks such as big data frameworks and blockchain systems.&lt;/p&gt;
+&lt;p&gt;The Principal Investigator, Peilong Li, Ph.D., is an assistant professor of the Department of Computer Science at Elizabethtown College. He also oversees the Data Science Major in the department. He has received national and international wide recognition for his research and service contributions. For more details, visit his personal &lt;a href=&#34;https://peilong.github.io/&#34;&gt;website&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;what-to-expect-from-adal&#34;&gt;What to expect from ADAL&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Awaken your enthusiasm in data science&lt;/li&gt;
+&lt;li&gt;Complete a data science project as an &lt;a href=&#34;https://www.etown.edu/offices/registration-records/sle-list.aspx&#34;&gt;Signature Learning Experience (SLE)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Work as a student researcher during summer and regular semesters (&lt;a href=&#34;post/join-us/&#34;&gt;how&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Pursue your career as a &lt;a href=&#34;https://trends.google.com/trends/explore?cat=958&amp;amp;date=2010-02-03%202020-03-03&amp;amp;geo=US&amp;amp;q=data%20scientist&#34;&gt;data scientist&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Derek Manning</title>
@@ -58,23 +75,6 @@
       <pubDate>Tue, 03 Mar 2020 22:48:13 -0500</pubDate>
       <guid>https://bluejayadal.github.io/authors/yan-luo/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://bluejayadal.github.io/authors/admin/</link>
-      <pubDate>Tue, 03 Mar 2020 18:16:49 -0500</pubDate>
-      <guid>https://bluejayadal.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Welcome to the Advanced Data Analytics Lab (ADAL) at Elizabethtown College. Our research focuses on two broad areas: (i) &lt;strong&gt;data analytics&lt;/strong&gt;: the delivery of new knowledge from enormous data with statistical modeling and machine learning, and (ii) &lt;strong&gt;distributed systems&lt;/strong&gt;: the development of distribute computing, networking and storage frameworks such as big data frameworks and blockchain systems.&lt;/p&gt;
-&lt;p&gt;The Principal Investigator, Peilong Li, Ph.D., is an assistant professor of the Department of Computer Science at Elizabethtown College. He also oversees the Data Science Major in the department. He has received national and international wide recognition for his research and service contributions. For more details, visit his personal &lt;a href=&#34;https://peilong.github.io/&#34;&gt;website&lt;/a&gt;.&lt;/p&gt;
-&lt;h4 id=&#34;what-to-expect-from-adal&#34;&gt;What to expect from ADAL&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Awaken your enthusiasm in data science&lt;/li&gt;
-&lt;li&gt;Complete a data science project as an &lt;a href=&#34;https://www.etown.edu/offices/registration-records/sle-list.aspx&#34;&gt;Signature Learning Experience (SLE)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Work as a student researcher during summer (&lt;a href=&#34;https://www.etown.edu/offices/research/summer-scholarship.aspx&#34;&gt;SCARP&lt;/a&gt;) and regular semesters&lt;/li&gt;
-&lt;li&gt;Pursue your career as a &lt;a href=&#34;https://trends.google.com/trends/explore?cat=958&amp;amp;date=2010-02-03%202020-03-03&amp;amp;geo=US&amp;amp;q=data%20scientist&#34;&gt;data scientist&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
     </item>
     
   </channel>

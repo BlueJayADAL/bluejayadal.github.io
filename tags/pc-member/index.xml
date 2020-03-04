@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PC Member | ADAL</title>
+    <link>https://bluejayadal.github.io/tags/pc-member/</link>
+      <atom:link href="https://bluejayadal.github.io/tags/pc-member/index.xml" rel="self" type="application/rss+xml" />
+    <description>PC Member</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© ADAL 2020</copyright><lastBuildDate>Wed, 04 Mar 2020 15:31:13 -0500</lastBuildDate>
+    <image>
+      <url>https://bluejayadal.github.io/images/icon_hu67d8132adf6916bc3e83a7d6cad86df0_8135_512x512_fill_lanczos_center_2.png</url>
+      <title>PC Member</title>
+      <link>https://bluejayadal.github.io/tags/pc-member/</link>
+    </image>
+    
+    <item>
+      <title>Dr. Li serves as a PC Member of NetAML Workshop 2020</title>
+      <link>https://bluejayadal.github.io/post/2020-netaml-workshop/</link>
+      <pubDate>Wed, 04 Mar 2020 15:31:13 -0500</pubDate>
+      <guid>https://bluejayadal.github.io/post/2020-netaml-workshop/</guid>
+      <description>&lt;h2 id=&#34;program-committee-member&#34;&gt;Program Committee Member&lt;/h2&gt;
+&lt;p&gt;Dr. Li was honored to be invited as a Program Committee Member for the coming 1st Workshop on Network Traffic Analytics using Machine Learning (&lt;a href=&#34;https://netaml.github.io/&#34;&gt;NetAML&lt;/a&gt;), co-located with IJCAI 2020 in Yokohama, Japan.&lt;/p&gt;
+&lt;p&gt;As a PC member, Dr. Li will be helping find paper reviewers, review the paper submissions, judge the competition, and manage the workshop website.&lt;/p&gt;
+&lt;h2 id=&#34;netaml-workshop&#34;&gt;NETAML Workshop&lt;/h2&gt;
+&lt;p&gt;The NETAML 2020 workshop aims to provide a venue for the community to present and discuss the latest advances in traffic analysis, with an emphasis on novel machine learning based approaches. Given the expertise from IJCAI-PRICAI20 attendees, we see this an excellent opportunity for networking researchers to interact with ML/AI community to foster new knowledges and advance the state of art. We expect to have papers contributed by researchers and practitioners, as well as invited talks by distinguished experts. In particular, we will organize a competition (NetAML Competition, sponsored by Intel Corp., pending approvals) at IJCAI- PRICAI20 on machine learning based traffic analytics before the deadline of the workshop submission, and encourage participants of the competition to submit papers to and present their results at the NETAML workshop. We hope this workshop will catalyze the research and development of novel methods for network traffic analytics with rich datasets, vigorous discussions, new directions and fruitful collaborations.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,25 @@
     <link>https://bluejayadal.github.io/authors/admin/</link>
       <atom:link href="https://bluejayadal.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>ADAL</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© ADAL 2020</copyright><lastBuildDate>Tue, 03 Mar 2020 18:16:49 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© ADAL 2020</copyright><lastBuildDate>Wed, 04 Mar 2020 15:31:13 -0500</lastBuildDate>
     <image>
       <url>https://bluejayadal.github.io/images/icon_hu67d8132adf6916bc3e83a7d6cad86df0_8135_512x512_fill_lanczos_center_2.png</url>
       <title>ADAL</title>
       <link>https://bluejayadal.github.io/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Dr. Li serves as a PC Member of NetAML Workshop 2020</title>
+      <link>https://bluejayadal.github.io/post/2020-netaml-workshop/</link>
+      <pubDate>Wed, 04 Mar 2020 15:31:13 -0500</pubDate>
+      <guid>https://bluejayadal.github.io/post/2020-netaml-workshop/</guid>
+      <description>&lt;h2 id=&#34;program-committee-member&#34;&gt;Program Committee Member&lt;/h2&gt;
+&lt;p&gt;Dr. Li was honored to be invited as a Program Committee Member for the coming 1st Workshop on Network Traffic Analytics using Machine Learning (&lt;a href=&#34;https://netaml.github.io/&#34;&gt;NetAML&lt;/a&gt;), co-located with IJCAI 2020 in Yokohama, Japan.&lt;/p&gt;
+&lt;p&gt;As a PC member, Dr. Li will be helping find paper reviewers, review the paper submissions, judge the competition, and manage the workshop website.&lt;/p&gt;
+&lt;h2 id=&#34;netaml-workshop&#34;&gt;NETAML Workshop&lt;/h2&gt;
+&lt;p&gt;The NETAML 2020 workshop aims to provide a venue for the community to present and discuss the latest advances in traffic analysis, with an emphasis on novel machine learning based approaches. Given the expertise from IJCAI-PRICAI20 attendees, we see this an excellent opportunity for networking researchers to interact with ML/AI community to foster new knowledges and advance the state of art. We expect to have papers contributed by researchers and practitioners, as well as invited talks by distinguished experts. In particular, we will organize a competition (NetAML Competition, sponsored by Intel Corp., pending approvals) at IJCAI- PRICAI20 on machine learning based traffic analytics before the deadline of the workshop submission, and encourage participants of the competition to submit papers to and present their results at the NETAML workshop. We hope this workshop will catalyze the research and development of novel methods for network traffic analytics with rich datasets, vigorous discussions, new directions and fruitful collaborations.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Are you interested in joining BlueJay ADAL?</title>
@@ -28,10 +41,20 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;summer-creative-arts-and-research-program&#34;&gt;Summer Creative Arts and Research Program&lt;/h2&gt;
 &lt;p&gt;Another way of participation is through the Summer Creative Arts and Research Program (&lt;a href=&#34;https://www.etown.edu/offices/research/summer-scholarship.aspx&#34;&gt;SCARP&lt;/a&gt;) from which you can get up to 10-week-long paid research work plus free meal and board on campus.&lt;/p&gt;
-&lt;p&gt;We welcome applications from computer science, engineering, mathematics, chemistry or biology majors. Applicants should have proficient programming experience in Python and Java, and be familiar with software development environments and tools in Linux. The ideal applicants should also have taken &lt;em&gt;DS200 Intro to Data Science&lt;/em&gt; and &lt;em&gt;DS300 Data Mining&lt;/em&gt; offered by the Data Science Major at Etown College. The student researcher will be expected to work effectively both independently and with other colleagues as required.&lt;/p&gt;
+&lt;p&gt;We welcome applications from computer science, engineering, mathematics, chemistry, biology or other related majors. Applicants should have proficient programming experience in Python (understanding another OOP language such as Java and C++ is a plus), and be familiar with software development environments and tools in Linux. The ideal applicants should also have taken &lt;em&gt;DS200 Intro to Data Science&lt;/em&gt; and &lt;em&gt;DS300 Data Mining&lt;/em&gt; offered by the Data Science Major at Etown College. The student researchers will be expected to work effectively both independently and in a team.&lt;/p&gt;
 &lt;h2 id=&#34;other-opportunities&#34;&gt;Other Opportunities&lt;/h2&gt;
-&lt;p&gt;Projects funded by external funding agencies are available from time to time. Students could potentially work as research assistants during regular semesters, however the screening process is very strict.&lt;/p&gt;
-&lt;p&gt;If you have any questions about the undergraduate research opportunities in our laboratory, you can contact &lt;a href=&#34;mailto:lip@etown.edu&#34;&gt;Dr. Li&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Projects funded by external funding agencies are available from time to time. Students could potentially work as research assistants during regular semesters, however the screening process is very strict in this category.&lt;/p&gt;
+&lt;p&gt;If you have any questions about the undergraduate research opportunities in our laboratory, please direct your message to &lt;a href=&#34;mailto:lip@etown.edu&#34;&gt;Dr. Li&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper Accepted by IEEE International Conference on Communications 2020</title>
+      <link>https://bluejayadal.github.io/post/2019-icc-aceta/</link>
+      <pubDate>Thu, 23 Jan 2020 15:47:50 -0500</pubDate>
+      <guid>https://bluejayadal.github.io/post/2019-icc-aceta/</guid>
+      <description>&lt;h2 id=&#34;aceta-paper-accepted&#34;&gt;ACETA Paper Accepted&lt;/h2&gt;
+&lt;p&gt;Our paper entitled &amp;ldquo;ACETA: Accelerating Encrypted Traffic Analytics on Network Edge&amp;rdquo; was accepted to be appearing in proceedings of IEEE International Conference on Communications 2020. The average IEEE ICC paper acceptance rate is 38%. Congratulations to Derek Manning and the team.&lt;/p&gt;
 </description>
     </item>
     
