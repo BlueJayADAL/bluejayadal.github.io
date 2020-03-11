@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SCARP | ADAL</title>
+    <link>https://bluejayadal.github.io/tags/scarp/</link>
+      <atom:link href="https://bluejayadal.github.io/tags/scarp/index.xml" rel="self" type="application/rss+xml" />
+    <description>SCARP</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© ADAL 2020</copyright><lastBuildDate>Wed, 11 Mar 2020 09:32:15 -0400</lastBuildDate>
+    <image>
+      <url>https://bluejayadal.github.io/images/icon_hu67d8132adf6916bc3e83a7d6cad86df0_8135_512x512_fill_lanczos_center_2.png</url>
+      <title>SCARP</title>
+      <link>https://bluejayadal.github.io/tags/scarp/</link>
+    </image>
+    
+    <item>
+      <title>ADAL receives two 2020 SCARP Grants</title>
+      <link>https://bluejayadal.github.io/post/2020-scarp-grant/</link>
+      <pubDate>Wed, 11 Mar 2020 09:32:15 -0400</pubDate>
+      <guid>https://bluejayadal.github.io/post/2020-scarp-grant/</guid>
+      <description>&lt;h2 id=&#34;project-1&#34;&gt;Project 1:&lt;/h2&gt;
+&lt;p&gt;A Performance Study between Machine Learning and Deep Learning Methods on Network Traffic Analysis&lt;/p&gt;
+&lt;h4 id=&#34;principal-investigator-faculty-mentor&#34;&gt;Principal Investigator, Faculty Mentor:&lt;/h4&gt;
+&lt;p&gt;Dr. Peilong Li&lt;/p&gt;
+&lt;h4 id=&#34;student-researchers&#34;&gt;Student Researchers:&lt;/h4&gt;
+&lt;p&gt;Matthew Grohotolski, Connor DiLeo&lt;/p&gt;
+&lt;h4 id=&#34;grant-amount&#34;&gt;Grant Amount:&lt;/h4&gt;
+&lt;p&gt;$9,440&lt;/p&gt;
+&lt;h4 id=&#34;project-duration&#34;&gt;Project Duration:&lt;/h4&gt;
+&lt;p&gt;8 Weeks&lt;/p&gt;
+&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
+&lt;p&gt;Applying machine learning techniques is a promising direction to classify traffic categories and identify malicious flows in both encrypted and plain network traffic. However, it remains an open problem as there are many challenges in training datasets, feature engineering, machine learning models: (1) the datasets used in prior works are heterogeneous in size, traffic types, encryption schemes, which make it difficult to generalize the findings from these research works; (2) it is still a debate whether to infer using network flow features or raw packet bytes as input, both of which have demonstrated a degree of effectiveness; (3) it is interesting to explore the design space of machine learning models, from traditional machine learning approaches to more recent deep neural networks. We aim to investigate whether the models have different effectiveness for different objectives (e.g. traffic classification vs malware detection).&lt;/p&gt;
+&lt;h2 id=&#34;project-2&#34;&gt;Project 2:&lt;/h2&gt;
+&lt;p&gt;Building a Secure Inter-institutional Data Sharing Platform with Blockchain&lt;/p&gt;
+&lt;h4 id=&#34;principal-investigator-faculty-mentor-1&#34;&gt;Principal Investigator, Faculty Mentor:&lt;/h4&gt;
+&lt;p&gt;Dr. Jingwen Wang&lt;/p&gt;
+&lt;h4 id=&#34;student-researchers-1&#34;&gt;Student Researchers:&lt;/h4&gt;
+&lt;p&gt;Grace Cuff, Jeffry Edmonds&lt;/p&gt;
+&lt;h4 id=&#34;grant-amount-1&#34;&gt;Grant Amount:&lt;/h4&gt;
+&lt;p&gt;$8,640&lt;/p&gt;
+&lt;h4 id=&#34;project-duration-1&#34;&gt;Project Duration:&lt;/h4&gt;
+&lt;p&gt;8 Weeks&lt;/p&gt;
+&lt;h4 id=&#34;abstract-1&#34;&gt;Abstract&lt;/h4&gt;
+&lt;p&gt;Existing cyberinfrastrucure for inter-institutional data sharing faces challenges. Firstly, traditional infrastructure is a closed environment in a single or multiple fixed location, and cannot be used efficiently to share data securely among multiple institutions. For example, the patient data collected at a medical school cannot be readily shared with data scientist collaborators from a nearby institution. IRB approval, verifiable encryption and secure storage are only a few of the many prerequisites. Secondly, even though cloud services can provide a unified resource for institutional collaboration, the latency, bandwidth and cost of cloud-based computing do not scale well with emerging needs. Real-world cloud has its latency in the order of hundreds of milliseconds and its bandwidth is significantly limited by the shared network pipe. The cost incurred through compute time and storage can easily exceed research budget. Thirdly, there is no available open-sourced online portals that provide a clean interface for requesting and authenticating data to be used inter-institutionally.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

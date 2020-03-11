@@ -5,12 +5,28 @@
     <link>https://bluejayadal.github.io/categories/</link>
       <atom:link href="https://bluejayadal.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© ADAL 2020</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© ADAL 2020</copyright><lastBuildDate>Wed, 11 Mar 2020 09:32:15 -0400</lastBuildDate>
     <image>
       <url>https://bluejayadal.github.io/images/icon_hu67d8132adf6916bc3e83a7d6cad86df0_8135_512x512_fill_lanczos_center_2.png</url>
       <title>Categories</title>
       <link>https://bluejayadal.github.io/categories/</link>
     </image>
+    
+    <item>
+      <title>Grant</title>
+      <link>https://bluejayadal.github.io/categories/grant/</link>
+      <pubDate>Wed, 11 Mar 2020 09:32:15 -0400</pubDate>
+      <guid>https://bluejayadal.github.io/categories/grant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conference</title>
+      <link>https://bluejayadal.github.io/categories/conference/</link>
+      <pubDate>Wed, 04 Mar 2020 15:31:13 -0500</pubDate>
+      <guid>https://bluejayadal.github.io/categories/conference/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
