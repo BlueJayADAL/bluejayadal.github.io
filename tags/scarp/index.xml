@@ -44,5 +44,25 @@
 </description>
     </item>
     
+    <item>
+      <title>ADAL receives a 2019 SCARP Grant</title>
+      <link>https://bluejayadal.github.io/post/2019-scarp-grant/</link>
+      <pubDate>Tue, 12 Mar 2019 11:32:06 -0400</pubDate>
+      <guid>https://bluejayadal.github.io/post/2019-scarp-grant/</guid>
+      <description>&lt;h2 id=&#34;project-name&#34;&gt;Project Name:&lt;/h2&gt;
+&lt;p&gt;Machine Learning Based Encrypted Network Traffic Analysis on Multicore Processors&lt;/p&gt;
+&lt;h4 id=&#34;principal-investigator-faculty-mentor&#34;&gt;Principal Investigator, Faculty Mentor:&lt;/h4&gt;
+&lt;p&gt;Dr. Peilong Li&lt;/p&gt;
+&lt;h4 id=&#34;student-researchers&#34;&gt;Student Researchers:&lt;/h4&gt;
+&lt;p&gt;Derek Manning&lt;/p&gt;
+&lt;h4 id=&#34;grant-amount&#34;&gt;Grant Amount:&lt;/h4&gt;
+&lt;p&gt;$6,200&lt;/p&gt;
+&lt;h4 id=&#34;project-duration&#34;&gt;Project Duration:&lt;/h4&gt;
+&lt;p&gt;10 Weeks&lt;/p&gt;
+&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
+&lt;p&gt;Applying machine learning techniques to detect malicious encrypted network traffic has become a challenging research topic since traditional approaches based on studying network patterns fail to operate on encrypted data, especially without compromising the integrity of encryption. Traditional solutions to identify network threats fall into two major categories: 1) deep packet inspection and signatures; and 2) offline network pattern training. However, the first category is not applicable on encrypted traffic. Furthermore, solutions that work on decrypted network data will expose the privacy of the network users, and are computationally intensive. By passively monitoring malicious behaviors on a session-based level, the second category of traditional solutions demonstrate high accuracy and low false positives. However, extracting network data features and applying machine learning based classifiers “in-flight” are challenging due to the high computational power and low response latency requirements.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
