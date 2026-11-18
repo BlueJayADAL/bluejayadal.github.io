@@ -5,12 +5,32 @@
     <link>https://bluejayadal.github.io/tags/service/</link>
       <atom:link href="https://bluejayadal.github.io/tags/service/index.xml" rel="self" type="application/rss+xml" />
     <description>Service</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© ADAL 2020-2026</copyright><lastBuildDate>Wed, 04 Mar 2020 15:31:13 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© ADAL 2020-2026</copyright><lastBuildDate>Wed, 11 Nov 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bluejayadal.github.io/images/icon_hu6c51b60f519c5e3915202895fbbc8a02_35524_512x512_fill_lanczos_center_2.png</url>
       <title>Service</title>
       <link>https://bluejayadal.github.io/tags/service/</link>
     </image>
+    
+    <item>
+      <title>Dr. Li Serves on the IEEE ICC Technical Program Committee</title>
+      <link>https://bluejayadal.github.io/post/2026-icc-tpc/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/post/2026-icc-tpc/</guid>
+      <description>&lt;p&gt;Dr. Li is serving as a Technical Program Committee member for the IEEE International Conference on Communications (ICC). He reviewed six papers for the Communication and Information System Security track.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dr. Li Presents ARISE at QRS 2026 in Florence, Italy</title>
+      <link>https://bluejayadal.github.io/post/2026-qrs-arise/</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/post/2026-qrs-arise/</guid>
+      <description>&lt;p&gt;From July 22-25, 2026, Dr. Li presented our paper &amp;ldquo;ARISE: Adaptive Multimodal Orchestration for Real-time Conversational Health Agents on Heterogeneous Edge Platforms&amp;rdquo; at the 26th International Conference on Software Quality, Reliability, and Security (QRS 2026) in Florence, Italy. The paper comes out of our 
+&lt;a href=&#34;https://bluejayadal.github.io/project/arise/&#34;&gt;ARISE project&lt;/a&gt; (SCARP 2025).&lt;/p&gt;
+&lt;p&gt;At the conference, Dr. Li also served as the session chair for the Special Track on Dependable IoT and Edge Software Systems.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Dr. Li serves as a Co-Chair of NetAML Workshop 2020</title>

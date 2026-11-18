@@ -80,17 +80,72 @@
   </url>
   
   <url>
-    <loc>https://bluejayadal.github.io/post/2026-faculty-grant/</loc>
-    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bluejayadal.github.io/authors/</loc>
     <lastmod>2026-11-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bluejayadal.github.io/categories/</loc>
+    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/categories/conference/</loc>
+    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/post/2026-icc-tpc/</loc>
+    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/post/</loc>
+    <lastmod>2026-11-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/tags/service/</loc>
+    <lastmod>2026-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/tags/</loc>
+    <lastmod>2026-11-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/post/2026-sigcse-jayquery/</loc>
+    <lastmod>2026-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/tags/paper/</loc>
+    <lastmod>2026-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/tags/award/</loc>
+    <lastmod>2026-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/categories/award/</loc>
+    <lastmod>2026-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/post/2026-merit-award/</loc>
+    <lastmod>2026-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/post/2026-qrs-arise/</loc>
+    <lastmod>2026-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/post/2026-faculty-grant/</loc>
     <lastmod>2026-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -115,18 +170,8 @@
   </url>
   
   <url>
-    <loc>https://bluejayadal.github.io/post/</loc>
-    <lastmod>2026-11-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bluejayadal.github.io/project/etown-llm/</loc>
     <lastmod>2026-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bluejayadal.github.io/tags/</loc>
-    <lastmod>2026-11-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -160,16 +205,6 @@
   </url>
   
   <url>
-    <loc>https://bluejayadal.github.io/tags/award/</loc>
-    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bluejayadal.github.io/categories/award/</loc>
-    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bluejayadal.github.io/post/2026-best-advisor/</loc>
     <lastmod>2026-04-01T00:00:00+00:00</lastmod>
   </url>
@@ -196,16 +231,6 @@
   
   <url>
     <loc>https://bluejayadal.github.io/publication_types/1/</loc>
-    <lastmod>2025-02-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bluejayadal.github.io/categories/conference/</loc>
-    <lastmod>2025-02-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bluejayadal.github.io/tags/paper/</loc>
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -431,11 +456,6 @@
   
   <url>
     <loc>https://bluejayadal.github.io/post/2020-netaml-workshop/</loc>
-    <lastmod>2020-03-04T15:31:13-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bluejayadal.github.io/tags/service/</loc>
     <lastmod>2020-03-04T15:31:13-05:00</lastmod>
   </url>
   
