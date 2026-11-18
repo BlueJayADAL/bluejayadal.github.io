@@ -325,9 +325,15 @@
 
 
   
-
-
-
+<style>
+  .wg-slider .carousel-item { min-height: 440px; }
+  .wg-slider .carousel-item.active,
+  .wg-slider .carousel-item-next,
+  .wg-slider .carousel-item-prev { display: flex; align-items: center; }
+  .wg-slider .carousel-item > .container { width: 100%; }
+  .wg-slider .hero-title img { display: block; margin: 0 auto .75rem auto; }
+  @media (max-width: 575px) { .wg-slider .carousel-item { min-height: 360px; } }
+</style>
 
 
   <title>ADAL</title>
@@ -681,23 +687,15 @@
   
   <div class="wg-hero dark carousel-item active" style="
     
-    background-color: #666;
+    background-color: #0B1F3F;
     
-    
-    background-image:
-    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
-    url('https://bluejayadal.github.io/img/header/adal_bg.jpeg');
     
     ;">
     <div class="container" style="text-align: center;">
         <h1 class="hero-title">
-          Welcome to ADAL
+          <img src="/img/adal-lockup-on-dark-2400w.png" alt="ADAL: Agentic and Dependable AI Lab" style="width: 90%; max-width: 560px; height: auto;">
         </h1>
 
-        
-        <p class="hero-lead" style="margin: 0 auto 0 auto;">
-          Unleash the power of data and your imagination
-        </p>
         
 
         
