@@ -5,12 +5,53 @@
     <link>https://bluejayadal.github.io/tags/paper/</link>
       <atom:link href="https://bluejayadal.github.io/tags/paper/index.xml" rel="self" type="application/rss+xml" />
     <description>Paper</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© ADAL 2020</copyright><lastBuildDate>Thu, 23 Jan 2020 15:47:50 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© ADAL 2020-2026</copyright><lastBuildDate>Wed, 26 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bluejayadal.github.io/images/icon_hu67d8132adf6916bc3e83a7d6cad86df0_8135_512x512_fill_lanczos_center_2.png</url>
+      <url>https://bluejayadal.github.io/images/icon_hu6c51b60f519c5e3915202895fbbc8a02_35524_512x512_fill_lanczos_center_2.png</url>
       <title>Paper</title>
       <link>https://bluejayadal.github.io/tags/paper/</link>
     </image>
+    
+    <item>
+      <title>RydeeNLP at the ACM SIGCSE TS 2025 Student Research Competition</title>
+      <link>https://bluejayadal.github.io/post/2025-sigcse-rydeenlp/</link>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/post/2025-sigcse-rydeenlp/</guid>
+      <description>&lt;p&gt;Yusuke Satani presented &amp;ldquo;
+&lt;a href=&#34;https://bluejayadal.github.io/publication/2025-sigcse-rydeenlp/&#34;&gt;RydeeNLP: Personalized Japanese Learning Through NLP-Powered Proficiency Adaptation&lt;/a&gt;&amp;rdquo; at the Student Research Competition of the 56th ACM Technical Symposium on Computer Science Education (SIGCSE TS 2025) in Pittsburgh, PA. Congratulations, Yusuke!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MalBuster Paper Published at IEEE CCNC 2024</title>
+      <link>https://bluejayadal.github.io/post/2024-ccnc-malbuster/</link>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/post/2024-ccnc-malbuster/</guid>
+      <description>&lt;p&gt;Our paper &amp;ldquo;
+&lt;a href=&#34;https://bluejayadal.github.io/publication/2024-ccnc-malbuster/&#34;&gt;MalBuster: Scalable, Real-Time, and Concept Drift-Adaptive Malware Detection for Smart Environments&lt;/a&gt;&amp;rdquo; by Jingwen Wang, Peilong Li, Ethan Weitkamp, Yusuke Satani and Adam Omundsen appeared in the proceedings of the 2024 IEEE 21st Consumer Communications &amp;amp; Networking Conference (CCNC). Congratulations to our student co-authors!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MalIoT Preprint Released</title>
+      <link>https://bluejayadal.github.io/post/2023-maliot-preprint/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/post/2023-maliot-preprint/</guid>
+      <description>&lt;p&gt;Our paper &amp;ldquo;
+&lt;a href=&#34;https://bluejayadal.github.io/publication/2023-arxiv-maliot/&#34;&gt;MalIoT: Scalable and Real-time Malware Traffic Detection for IoT Networks&lt;/a&gt;&amp;rdquo; by Ethan Weitkamp, Yusuke Satani, Adam Omundsen, Jingwen Wang and Peilong Li is now available on 
+&lt;a href=&#34;https://arxiv.org/abs/2304.00623&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper Published at NSysS 2020</title>
+      <link>https://bluejayadal.github.io/post/2020-nsyss-paper/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/post/2020-nsyss-paper/</guid>
+      <description>&lt;p&gt;Our paper &amp;ldquo;
+&lt;a href=&#34;https://bluejayadal.github.io/publication/2020-nsyss/&#34;&gt;Machine Learning Based Malware Detection on Encrypted Traffic: A Comprehensive Performance Study&lt;/a&gt;&amp;rdquo; appeared in the proceedings of the 7th International Conference on Networking, Systems and Security (NSysS 2020), held December 22-24, 2020. The paper is a product of our SCARP 2020 project. Congratulations to Matthew Grohotolski and Connor DiLeo, and thanks to our collaborators at UMass Lowell and Intel.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Paper Accepted by IEEE International Conference on Communications 2020</title>

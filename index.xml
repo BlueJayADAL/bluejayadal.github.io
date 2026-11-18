@@ -5,12 +5,411 @@
     <link>https://bluejayadal.github.io/</link>
       <atom:link href="https://bluejayadal.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>ADAL</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© ADAL 2020</copyright><lastBuildDate>Wed, 11 Mar 2020 09:32:15 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© ADAL 2020-2026</copyright><lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bluejayadal.github.io/images/icon_hu67d8132adf6916bc3e83a7d6cad86df0_8135_512x512_fill_lanczos_center_2.png</url>
+      <url>https://bluejayadal.github.io/images/icon_hu6c51b60f519c5e3915202895fbbc8a02_35524_512x512_fill_lanczos_center_2.png</url>
       <title>ADAL</title>
       <link>https://bluejayadal.github.io/</link>
     </image>
+    
+    <item>
+      <title>ADAL Receives an Etown Faculty Grant for a Self-Hosted LLM</title>
+      <link>https://bluejayadal.github.io/post/2026-faculty-grant/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/post/2026-faculty-grant/</guid>
+      <description>&lt;p&gt;Dr. Li received an Elizabethtown College Faculty Grant for &lt;em&gt;Building the Foundation: Student Research Internships for Prototyping Elizabethtown College&amp;rsquo;s Self-Hosted LLM System&lt;/em&gt; (July 2026 - June 2028, $6,750).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Self-Hosted LLM for Elizabethtown College</title>
+      <link>https://bluejayadal.github.io/project/etown-llm/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/project/etown-llm/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Building the Foundation: Student Research Internships for Prototyping Elizabethtown College&amp;rsquo;s Self-Hosted LLM System&lt;/em&gt; is supported by an Elizabethtown College Faculty Grant (July 2026 - June 2028). The project funds student research internships to prototype a self-hosted large language model (LLM) system for the college.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ADAL Receives a 2026 SCARP Grant</title>
+      <link>https://bluejayadal.github.io/post/2026-scarp-grant/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/post/2026-scarp-grant/</guid>
+      <description>&lt;h2 id=&#34;project-name&#34;&gt;Project Name:&lt;/h2&gt;
+&lt;p&gt;JayQuery: Privacy-Preserving Student Success Prediction with Federated Learning&lt;/p&gt;
+&lt;h4 id=&#34;principal-investigator-faculty-mentor&#34;&gt;Principal Investigator, Faculty Mentor:&lt;/h4&gt;
+&lt;p&gt;Dr. Peilong Li&lt;/p&gt;
+&lt;h4 id=&#34;student-researchers&#34;&gt;Student Researchers:&lt;/h4&gt;
+&lt;p&gt;Alex Pellet, Wyatt Wilfong&lt;/p&gt;
+&lt;h4 id=&#34;grant-amount&#34;&gt;Grant Amount:&lt;/h4&gt;
+&lt;p&gt;$15,264.08&lt;/p&gt;
+&lt;h4 id=&#34;project-period&#34;&gt;Project Period:&lt;/h4&gt;
+&lt;p&gt;Summer 2026&lt;/p&gt;
+&lt;p&gt;Learn more on the 
+&lt;a href=&#34;https://bluejayadal.github.io/project/jayquery/&#34;&gt;project page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JayQuery: Privacy-Preserving Student Success Prediction</title>
+      <link>https://bluejayadal.github.io/project/jayquery/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/project/jayquery/</guid>
+      <description>&lt;p&gt;JayQuery was ADAL&amp;rsquo;s SCARP 2026 project on privacy-preserving student success prediction with federated learning.&lt;/p&gt;
+&lt;p&gt;Colleges are data-rich but insight-poor: FERPA regulations prevent offices such as the Registrar, Financial Aid and the learning management system from merging their student records into a single model. JayQuery uses &lt;strong&gt;vertical federated learning (VFL)&lt;/strong&gt;: separate data silos collaborate to train a dropout-risk predictor without ever sharing raw records. The silos align their records through a private set intersection (PSI) handshake, each trains a local &amp;ldquo;bottom&amp;rdquo; model, and a federated learning server combines their embeddings in a &amp;ldquo;top&amp;rdquo; model protected with differential-privacy noise.&lt;/p&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Alex Pellet, system architect and ML engineer&lt;/li&gt;
+&lt;li&gt;Wyatt Wilfong, privacy and security lead&lt;/li&gt;
+&lt;li&gt;Dr. Peilong Li, faculty mentor&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dr. Li Named Best Advisor of the Year for 2026</title>
+      <link>https://bluejayadal.github.io/post/2026-best-advisor/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/post/2026-best-advisor/</guid>
+      <description>&lt;p&gt;In April 2026, Dr. Li again received Elizabethtown College&amp;rsquo;s &lt;strong&gt;Best Advisor of the Year&lt;/strong&gt; award, after first receiving it in 2024. Only two faculty members received this award.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ARISE: AI-Powered At-Home Exercise for Older Adults</title>
+      <link>https://bluejayadal.github.io/project/arise/</link>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/project/arise/</guid>
+      <description>&lt;p&gt;ARISE, &lt;em&gt;An AI-powered Real-time Interactive Support for Exercise in Elderly Communities&lt;/em&gt;, was ADAL&amp;rsquo;s SCARP 2025 project.&lt;/p&gt;
+&lt;p&gt;ARISE is an AI-powered at-home exercise system for older adults. It combines lightweight pose estimation with voice interaction (offline automatic speech recognition, a local large language model and text-to-speech) to give real-time feedback and coaching during exercise sessions. The system is designed to run on low-power single-board computers such as the Raspberry Pi 5 with a Hailo-8 NPU and the NVIDIA Jetson Nano. All processing happens locally, so no data is sent to the cloud.&lt;/p&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Aaron Frist and Alex Roop, student researchers&lt;/li&gt;
+&lt;li&gt;Dr. Peilong Li, faculty mentor&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ADAL Receives a 2025 SCARP Grant</title>
+      <link>https://bluejayadal.github.io/post/2025-scarp-grant/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/post/2025-scarp-grant/</guid>
+      <description>&lt;h2 id=&#34;project-name&#34;&gt;Project Name:&lt;/h2&gt;
+&lt;p&gt;ARISE - An AI-powered Real-time Interactive Support for Exercise in Elderly Communities&lt;/p&gt;
+&lt;h4 id=&#34;principal-investigator-faculty-mentor&#34;&gt;Principal Investigator, Faculty Mentor:&lt;/h4&gt;
+&lt;p&gt;Dr. Peilong Li&lt;/p&gt;
+&lt;h4 id=&#34;student-researchers&#34;&gt;Student Researchers:&lt;/h4&gt;
+&lt;p&gt;Aaron Frist, Alex Roop&lt;/p&gt;
+&lt;h4 id=&#34;grant-amount&#34;&gt;Grant Amount:&lt;/h4&gt;
+&lt;p&gt;$15,064.08&lt;/p&gt;
+&lt;h4 id=&#34;project-period&#34;&gt;Project Period:&lt;/h4&gt;
+&lt;p&gt;Summer 2025&lt;/p&gt;
+&lt;p&gt;Learn more on the 
+&lt;a href=&#34;https://bluejayadal.github.io/project/arise/&#34;&gt;project page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RydeeNLP at the ACM SIGCSE TS 2025 Student Research Competition</title>
+      <link>https://bluejayadal.github.io/post/2025-sigcse-rydeenlp/</link>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/post/2025-sigcse-rydeenlp/</guid>
+      <description>&lt;p&gt;Yusuke Satani presented &amp;ldquo;
+&lt;a href=&#34;https://bluejayadal.github.io/publication/2025-sigcse-rydeenlp/&#34;&gt;RydeeNLP: Personalized Japanese Learning Through NLP-Powered Proficiency Adaptation&lt;/a&gt;&amp;rdquo; at the Student Research Competition of the 56th ACM Technical Symposium on Computer Science Education (SIGCSE TS 2025) in Pittsburgh, PA. Congratulations, Yusuke!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RydeeNLP: Personalized Japanese Learning Through NLP-Powered Proficiency Adaptation</title>
+      <link>https://bluejayadal.github.io/publication/2025-sigcse-rydeenlp/</link>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/publication/2025-sigcse-rydeenlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RydeeNLP: Personalized Japanese Learning with NLP</title>
+      <link>https://bluejayadal.github.io/project/rydeenlp/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/project/rydeenlp/</guid>
+      <description>&lt;p&gt;RydeeNLP is a Japanese language learning system that integrates NLP techniques with educational technology to provide personalized learning experiences.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A word-swapping model creates a multi-tiered difficulty classification for Japanese nouns, verbs and adjectives.&lt;/li&gt;
+&lt;li&gt;Custom difficulty and paraphrase dictionaries inform adaptive translation models that adjust translations to the learner&amp;rsquo;s proficiency.&lt;/li&gt;
+&lt;li&gt;A web browser extension provides real-time, proficiency-matched translations and automatically populates a spaced-repetition flashcard system.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The work was presented at the ACM SIGCSE Technical Symposium 2025 Student Research Competition in Pittsburgh, PA.&lt;/p&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Yusuke Satani, student researcher&lt;/li&gt;
+&lt;li&gt;Dr. Peilong Li, faculty mentor&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dr. Li Named Best Advisor of the Year</title>
+      <link>https://bluejayadal.github.io/post/2024-best-advisor/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/post/2024-best-advisor/</guid>
+      <description>&lt;p&gt;In April 2024, Dr. Li received Elizabethtown College&amp;rsquo;s &lt;strong&gt;Best Advisor of the Year&lt;/strong&gt; award. Only two faculty members received this award.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MalBuster Paper Published at IEEE CCNC 2024</title>
+      <link>https://bluejayadal.github.io/post/2024-ccnc-malbuster/</link>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/post/2024-ccnc-malbuster/</guid>
+      <description>&lt;p&gt;Our paper &amp;ldquo;
+&lt;a href=&#34;https://bluejayadal.github.io/publication/2024-ccnc-malbuster/&#34;&gt;MalBuster: Scalable, Real-Time, and Concept Drift-Adaptive Malware Detection for Smart Environments&lt;/a&gt;&amp;rdquo; by Jingwen Wang, Peilong Li, Ethan Weitkamp, Yusuke Satani and Adam Omundsen appeared in the proceedings of the 2024 IEEE 21st Consumer Communications &amp;amp; Networking Conference (CCNC). Congratulations to our student co-authors!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MalBuster: Scalable, Real-Time, and Concept Drift-Adaptive Malware Detection for Smart Environments</title>
+      <link>https://bluejayadal.github.io/publication/2024-ccnc-malbuster/</link>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/publication/2024-ccnc-malbuster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ADAL Receives a 2023-2024 Google Cloud Teaching Award</title>
+      <link>https://bluejayadal.github.io/post/2023-google-cloud-teaching/</link>
+      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/post/2023-google-cloud-teaching/</guid>
+      <description>&lt;p&gt;Dr. Li received a &lt;strong&gt;Google Cloud Teaching Award&lt;/strong&gt; (July 2023 - August 2024, up to $5,000 in cloud credits) for Elizabethtown College cybersecurity course innovation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dr. Li Promoted to Associate Professor</title>
+      <link>https://bluejayadal.github.io/post/2023-associate-professor/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/post/2023-associate-professor/</guid>
+      <description>&lt;p&gt;Effective July 2023, Dr. Peilong Li was promoted to Associate Professor in the Department of Computer Science at Elizabethtown College.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JayRadar: A Zero-Code Vision System for FIRST Robotics</title>
+      <link>https://bluejayadal.github.io/project/jayradar/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/project/jayradar/</guid>
+      <description>&lt;p&gt;JayRadar, &lt;em&gt;A Zero-Code and Coprocessor Agnostic Vision System for the FIRST Robotics Competition&lt;/em&gt;, was ADAL&amp;rsquo;s SCARP 2023 project.&lt;/p&gt;
+&lt;p&gt;JayRadar is an open-source Python vision pipeline program. Users can create, edit, tune, save and load pipelines built from a series of &amp;ldquo;pipes&amp;rdquo; that transform camera frames, including a YOLOv8-based object detection filter. Results are posted to the NetworkTables used by FIRST Robotics teams, and frames can be displayed locally or streamed to a web server.&lt;/p&gt;
+&lt;p&gt;A companion 
+&lt;a href=&#34;https://github.com/BlueJayADAL/SCARP2023-JayRadar-GUI&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YOLO C++ API with a GUI&lt;/a&gt; for real-time object detection was developed and tested on an NVIDIA Jetson Nano.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ADAL Receives a 2023 SCARP Grant</title>
+      <link>https://bluejayadal.github.io/post/2023-scarp-grant/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/post/2023-scarp-grant/</guid>
+      <description>&lt;h2 id=&#34;project-name&#34;&gt;Project Name:&lt;/h2&gt;
+&lt;p&gt;JayRadar: A Zero-Code and Coprocessor Agnostic Vision System for the FIRST Robotics Competition&lt;/p&gt;
+&lt;h4 id=&#34;principal-investigator-faculty-mentor&#34;&gt;Principal Investigator, Faculty Mentor:&lt;/h4&gt;
+&lt;p&gt;Dr. Peilong Li&lt;/p&gt;
+&lt;h4 id=&#34;grant-amount&#34;&gt;Grant Amount:&lt;/h4&gt;
+&lt;p&gt;$14,048&lt;/p&gt;
+&lt;h4 id=&#34;project-period&#34;&gt;Project Period:&lt;/h4&gt;
+&lt;p&gt;May - Aug. 2023&lt;/p&gt;
+&lt;p&gt;Learn more on the 
+&lt;a href=&#34;https://bluejayadal.github.io/project/jayradar/&#34;&gt;project page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MalIoT Preprint Released</title>
+      <link>https://bluejayadal.github.io/post/2023-maliot-preprint/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/post/2023-maliot-preprint/</guid>
+      <description>&lt;p&gt;Our paper &amp;ldquo;
+&lt;a href=&#34;https://bluejayadal.github.io/publication/2023-arxiv-maliot/&#34;&gt;MalIoT: Scalable and Real-time Malware Traffic Detection for IoT Networks&lt;/a&gt;&amp;rdquo; by Ethan Weitkamp, Yusuke Satani, Adam Omundsen, Jingwen Wang and Peilong Li is now available on 
+&lt;a href=&#34;https://arxiv.org/abs/2304.00623&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MalIoT: Scalable and Real-time Malware Traffic Detection for IoT Networks</title>
+      <link>https://bluejayadal.github.io/publication/2023-arxiv-maliot/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/publication/2023-arxiv-maliot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ADAL Receives Google Cloud Research and Teaching Awards</title>
+      <link>https://bluejayadal.github.io/post/2022-google-cloud-awards/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/post/2022-google-cloud-awards/</guid>
+      <description>&lt;p&gt;ADAL received two awards from Google Cloud:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Google Cloud Research Award&lt;/strong&gt; (July 2022 - July 2023, $5,000): &lt;em&gt;IoTSec: Edge Network Malware Detection with Deep Learning for Smart Home&lt;/em&gt;, with Dr. Li as PI.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Google Cloud Teaching Award&lt;/strong&gt; (July 2022 - August 2023, up to $5,000 in cloud credits): cloud credits for Elizabethtown College cybersecurity course innovation.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IoTSec: Scalable, Real-time Malware Detection for Smart Environments</title>
+      <link>https://bluejayadal.github.io/project/iotsec/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/project/iotsec/</guid>
+      <description>&lt;p&gt;IoTSec, &lt;em&gt;Edge Network Malware Detection with Deep Learning for Smart Home&lt;/em&gt;, was funded by a Google Cloud Research Award (2022-2023).&lt;/p&gt;
+&lt;p&gt;ADAL&amp;rsquo;s work in this area includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;MalIoT&lt;/strong&gt;, a scalable, end-to-end network traffic analysis system that detects IoT malware traffic in real time. It uses Apache Kafka and Apache Spark to scale with the number of IoT devices and Intel&amp;rsquo;s oneAPI software stack to accelerate model inference.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MalBuster&lt;/strong&gt;, a scalable and real-time malware detection system for IoT devices in smart homes, communities and cities. It compares a suite of machine learning and deep learning models and uses a drift adaptation algorithm to keep pace with a changing malware landscape.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ethan Weitkamp, Yusuke Satani and Adam Omundsen, student researchers&lt;/li&gt;
+&lt;li&gt;Dr. Jingwen Wang and Dr. Peilong Li, Elizabethtown College&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NetSec: Accelerated Malware Detection with Machine Learning</title>
+      <link>https://bluejayadal.github.io/project/netsec/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/project/netsec/</guid>
+      <description>&lt;p&gt;NetSec, &lt;em&gt;Accelerated Malware Detection in Executable Files with Machine Learning&lt;/em&gt;, was supported by a SCARP 2022 grant and an Intel Academic Grant (2022), on which Dr. Li served as Co-PI.&lt;/p&gt;
+&lt;p&gt;Student teams built and evaluated machine-learning pipelines for malware detection, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;a streaming inference pipeline using Apache Kafka on the IoT-23 network traffic dataset, and&lt;/li&gt;
+&lt;li&gt;an Intel-sponsored project (Fall 2022) comparing Random Forest, LightGBM and convolutional neural network models for classifying malicious and benign IoT network packets on the IoT-23 and TON_IoT datasets.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ADAL Receives a 2022 SCARP Grant</title>
+      <link>https://bluejayadal.github.io/post/2022-scarp-grant/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/post/2022-scarp-grant/</guid>
+      <description>&lt;h2 id=&#34;project-name&#34;&gt;Project Name:&lt;/h2&gt;
+&lt;p&gt;NetSec: Accelerated Malware Detection in Executable Files with Machine Learning&lt;/p&gt;
+&lt;h4 id=&#34;principal-investigator-faculty-mentor&#34;&gt;Principal Investigator, Faculty Mentor:&lt;/h4&gt;
+&lt;p&gt;Dr. Peilong Li&lt;/p&gt;
+&lt;h4 id=&#34;grant-amount&#34;&gt;Grant Amount:&lt;/h4&gt;
+&lt;p&gt;$8,600&lt;/p&gt;
+&lt;h4 id=&#34;project-period&#34;&gt;Project Period:&lt;/h4&gt;
+&lt;p&gt;May - Aug. 2022&lt;/p&gt;
+&lt;p&gt;Learn more on the 
+&lt;a href=&#34;https://bluejayadal.github.io/project/netsec/&#34;&gt;project page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ADAL Receives an Intel Academic Grant</title>
+      <link>https://bluejayadal.github.io/post/2022-intel-grant/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/post/2022-intel-grant/</guid>
+      <description>&lt;p&gt;Dr. Li is a Co-PI of the 2022 Intel Academic Grant &lt;em&gt;NetSec: Accelerated Malware Detection in Executable Files with Machine Learning&lt;/em&gt; (January 2022 - January 2023). ADAL&amp;rsquo;s sub-award is $14,600 out of $100,000.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DataScope: Predictive Diagnosis in IIoT-enabled Smart Manufacturing</title>
+      <link>https://bluejayadal.github.io/project/datascope/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/project/datascope/</guid>
+      <description>&lt;p&gt;DataScope was ADAL&amp;rsquo;s SCARP 2021 project, &lt;em&gt;DataScope: Predictive Diagnosis in IIoT-enabled Smart Manufacturing&lt;/em&gt;, supported by Elizabethtown College&amp;rsquo;s Summer Creative Arts and Research Program.&lt;/p&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Adam Geltz and Reilly Sollenberger, data science student researchers&lt;/li&gt;
+&lt;li&gt;Dr. Peilong Li, research advisor&lt;/li&gt;
+&lt;li&gt;Industry mentors from CPNet (Harrisburg, PA) and HPI Resources, LLC (New Cumberland, PA)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ADAL Receives a 2021 SCARP Grant</title>
+      <link>https://bluejayadal.github.io/post/2021-scarp-grant/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/post/2021-scarp-grant/</guid>
+      <description>&lt;h2 id=&#34;project-name&#34;&gt;Project Name:&lt;/h2&gt;
+&lt;p&gt;DataScope: Predictive Diagnosis in IIoT-enabled Smart Manufacturing&lt;/p&gt;
+&lt;h4 id=&#34;principal-investigator-faculty-mentor&#34;&gt;Principal Investigator, Faculty Mentor:&lt;/h4&gt;
+&lt;p&gt;Dr. Peilong Li&lt;/p&gt;
+&lt;h4 id=&#34;student-researchers&#34;&gt;Student Researchers:&lt;/h4&gt;
+&lt;p&gt;Adam Geltz, Reilly Sollenberger&lt;/p&gt;
+&lt;h4 id=&#34;grant-amount&#34;&gt;Grant Amount:&lt;/h4&gt;
+&lt;p&gt;$9,640&lt;/p&gt;
+&lt;h4 id=&#34;project-period&#34;&gt;Project Period:&lt;/h4&gt;
+&lt;p&gt;May - Aug. 2021&lt;/p&gt;
+&lt;p&gt;The project was mentored together with industry partners from CPNet and HPI Resources, LLC.&lt;/p&gt;
+&lt;p&gt;Learn more on the 
+&lt;a href=&#34;https://bluejayadal.github.io/project/datascope/&#34;&gt;project page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dr. Li Receives the Merit Award in Teaching and Advising</title>
+      <link>https://bluejayadal.github.io/post/2021-merit-award/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/post/2021-merit-award/</guid>
+      <description>&lt;p&gt;In May 2021, Dr. Li received Elizabethtown College&amp;rsquo;s &lt;strong&gt;Merit Award in Teaching and Advising&lt;/strong&gt;. Only three faculty members in the whole college received this award.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Based Malware Detection on Encrypted Traffic: A Comprehensive Performance Study</title>
+      <link>https://bluejayadal.github.io/publication/2020-nsyss/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/publication/2020-nsyss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper Published at NSysS 2020</title>
+      <link>https://bluejayadal.github.io/post/2020-nsyss-paper/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/post/2020-nsyss-paper/</guid>
+      <description>&lt;p&gt;Our paper &amp;ldquo;
+&lt;a href=&#34;https://bluejayadal.github.io/publication/2020-nsyss/&#34;&gt;Machine Learning Based Malware Detection on Encrypted Traffic: A Comprehensive Performance Study&lt;/a&gt;&amp;rdquo; appeared in the proceedings of the 7th International Conference on Networking, Systems and Security (NSysS 2020), held December 22-24, 2020. The paper is a product of our SCARP 2020 project. Congratulations to Matthew Grohotolski and Connor DiLeo, and thanks to our collaborators at UMass Lowell and Intel.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANTA: Machine Learning vs. Deep Learning for Network Traffic Analysis</title>
+      <link>https://bluejayadal.github.io/project/anta/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/project/anta/</guid>
+      <description>&lt;p&gt;ANTA (Accelerated Network Traffic Analytics) was ADAL&amp;rsquo;s SCARP 2020 project, &lt;em&gt;A Performance Study between Machine Learning and Deep Learning Methods on Network Traffic Analysis&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The team studied the problem of detecting TLS-encrypted malware using flow metadata and TLS features. They benchmarked a suite of widely used machine learning and deep learning models on two malware flow datasets, measuring classification accuracy as well as run-time performance (throughput, CPU and RAM utilization), and accelerated the detectors with Intel DAAL and OpenVINO.&lt;/p&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Matthew Grohotolski and Connor DiLeo, student researchers&lt;/li&gt;
+&lt;li&gt;Dr. Peilong Li, faculty mentor&lt;/li&gt;
+&lt;li&gt;Collaborators: Dr. Yan Luo and Onur Barut (University of Massachusetts Lowell) and Tong Zhang (Intel)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ACETA: Accelerating Encrypted Traffic Analytics on Network Edge</title>
+      <link>https://bluejayadal.github.io/publication/2020-icc-aceta/</link>
+      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/publication/2020-icc-aceta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dr. Li Receives the Merit Award in Scholarship and Professional Activity</title>
+      <link>https://bluejayadal.github.io/post/2020-merit-award/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/post/2020-merit-award/</guid>
+      <description>&lt;p&gt;In May 2020, Dr. Li received Elizabethtown College&amp;rsquo;s &lt;strong&gt;Merit Award in Scholarship and Professional Activity&lt;/strong&gt;. Only three faculty members in the whole college received this award.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>ADAL receives two 2020 SCARP Grants</title>
@@ -24,7 +423,7 @@
 &lt;h4 id=&#34;student-researchers&#34;&gt;Student Researchers:&lt;/h4&gt;
 &lt;p&gt;Matthew Grohotolski, Connor DiLeo&lt;/p&gt;
 &lt;h4 id=&#34;grant-amount&#34;&gt;Grant Amount:&lt;/h4&gt;
-&lt;p&gt;$10,240&lt;/p&gt;
+&lt;p&gt;$9,440&lt;/p&gt;
 &lt;h4 id=&#34;project-duration&#34;&gt;Project Duration:&lt;/h4&gt;
 &lt;p&gt;8 Weeks&lt;/p&gt;
 &lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
@@ -36,7 +435,7 @@
 &lt;h4 id=&#34;student-researchers-1&#34;&gt;Student Researchers:&lt;/h4&gt;
 &lt;p&gt;Grace Cuff, Jeffry Edmonds&lt;/p&gt;
 &lt;h4 id=&#34;grant-amount-1&#34;&gt;Grant Amount:&lt;/h4&gt;
-&lt;p&gt;$9,440&lt;/p&gt;
+&lt;p&gt;$10,240&lt;/p&gt;
 &lt;h4 id=&#34;project-duration-1&#34;&gt;Project Duration:&lt;/h4&gt;
 &lt;p&gt;8 Weeks&lt;/p&gt;
 &lt;h4 id=&#34;abstract-1&#34;&gt;Abstract&lt;/h4&gt;
@@ -50,7 +449,8 @@
       <pubDate>Wed, 04 Mar 2020 15:31:13 -0500</pubDate>
       <guid>https://bluejayadal.github.io/post/2020-netaml-workshop/</guid>
       <description>&lt;h2 id=&#34;program-committee-member&#34;&gt;Program Committee Member&lt;/h2&gt;
-&lt;p&gt;Dr. Li was honored to be one of the three organizing committee co-chairs for the upcoming 1st Workshop on Network Traffic Analytics using Machine Learning (&lt;a href=&#34;https://netaml.github.io/&#34;&gt;NetAML&lt;/a&gt;), co-located with IJCAI 2020 in Yokohama, Japan.&lt;/p&gt;
+&lt;p&gt;Dr. Li was honored to be one of the three organizing committee co-chairs for the upcoming 1st Workshop on Network Traffic Analytics using Machine Learning (
+&lt;a href=&#34;https://netaml.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NetAML&lt;/a&gt;), co-located with IJCAI 2020 in Yokohama, Japan.&lt;/p&gt;
 &lt;p&gt;As a PC Co-Chair, Dr. Li will be helping find paper reviewers, review the paper submissions, judge the competition, and manage the workshop website.&lt;/p&gt;
 &lt;h2 id=&#34;netaml-workshop&#34;&gt;NETAML Workshop&lt;/h2&gt;
 &lt;p&gt;The NETAML 2020 workshop aims to provide a venue for the community to present and discuss the latest advances in traffic analysis, with an emphasis on novel machine learning based approaches. Given the expertise from IJCAI-PRICAI20 attendees, we see this an excellent opportunity for networking researchers to interact with ML/AI community to foster new knowledges and advance the state of art. We expect to have papers contributed by researchers and practitioners, as well as invited talks by distinguished experts. In particular, we will organize a competition (NetAML Competition, sponsored by Intel Corp., pending approvals) at IJCAI- PRICAI20 on machine learning based traffic analytics before the deadline of the workshop submission, and encourage participants of the competition to submit papers to and present their results at the NETAML workshop. We hope this workshop will catalyze the research and development of novel methods for network traffic analytics with rich datasets, vigorous discussions, new directions and fruitful collaborations.&lt;/p&gt;
@@ -74,16 +474,8 @@
 &lt;p&gt;Encrypted network traffic is the major form of the data transmitting over the Internet today. According to the statistics, 94% of all Google web traffic is encrypted as of July 2019. In 2019 alone, the encryption certificates issued per day is over 1 million. While protecting the privacy and providing security for enterprises, encryption technology also benefits evaders to secure their malicious activities.&lt;/p&gt;
 &lt;p&gt;Traditional solutions to identify network threats fall into two major categories: 1) deep packet inspection and signatures; and 2) offline network pattern modeling. However, the first category is not applicable on encrypted traffic. Furthermore, solutions that work on decrypted network data will compromise the user privacy and data integrity, and are computationally intensive. By passively monitoring malicious behaviors on a session-based level, the second category of traditional solutions demonstrate high accuracy and low false positives. However, training machine learning models, and inferencing with effective models in a timely fashion are challenging due to the high computational power and low response latency requirements.&lt;/p&gt;
 &lt;p&gt;With the recent adoption of network function virtualization (NFV) technology, enterprises start to deploy universal customer premises equipment (uCPE) on their network edge to perform complex network functionality including encrypted traffic analytics (ETA). Such uCPE equipments rely on commodity x86 platforms to enable virtual network functions provisioned without pre-configuration or manual operations. Meanwhile, recent innovation on x86 multicore systems, such as the Intel Data Analytics Acceleration Library (DAAL) for machine learning and the Intel OpenVINO toolkit for computer vision and neural networks, have enabled ETA to render faster training and inference and analyze larger data sets with available compute resources on x86 uCPE equipments. The library also exploits the next-generation processors such as Intel Xeon D to render optimal performance. By exploiting DAAL and OpenVINO, we can greatly accelerate the ETA speed without compromising performance.&lt;/p&gt;
-&lt;p&gt;In this project, we propose to leverage Intel x86 multicore platforms with the aforementioned software to design an ETA system named &lt;code&gt;ACETA&lt;/code&gt; with accelerated model training and inference. Specifically, we contribute in the three following aspects. 1) We seek to study the Cisco’s open-sourced ETA software named &lt;code&gt;Joy&lt;/code&gt; as the reference design, and extend Joy with three new machine learning models and test them with a new open-source dataset. 2) We optimize the ETA pipeline in the proposed software package ACETA with multithreading and Intel software packages to render faster training and inference speed without sacrificing performance. 3) We conduct thorough performance evaluation and comparison between Joy and ACETA for future reference.&lt;/p&gt;
+&lt;p&gt;In this project, we propose to leverage Intel x86 multicore platforms with the aforementioned software to design an ETA system named &lt;code&gt;ACETA&lt;/code&gt; with accelerated model training and inference. Specifically, we contribute in the three following aspects. 1) We seek to study the Cisco&amp;rsquo;s open-sourced ETA software named &lt;code&gt;Joy&lt;/code&gt; as the reference design, and extend Joy with three new machine learning models and test them with a new open-source dataset. 2) We optimize the ETA pipeline in the proposed software package ACETA with multithreading and Intel software packages to render faster training and inference speed without sacrificing performance. 3) We conduct thorough performance evaluation and comparison between Joy and ACETA for future reference.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>ACETA: Accelerating Encrypted Traffic Analytics on Network Edge</title>
-      <link>https://bluejayadal.github.io/publication/2020-icc-aceta/</link>
-      <pubDate>Tue, 03 Mar 2020 22:48:13 -0500</pubDate>
-      <guid>https://bluejayadal.github.io/publication/2020-icc-aceta/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -93,19 +485,22 @@
       <guid>https://bluejayadal.github.io/post/join-us/</guid>
       <description>&lt;p&gt;We are always interested in recruiting talented students to join our research group. We also welcome inter-department and industry collaboration.&lt;/p&gt;
 &lt;h2 id=&#34;signature-learning-experience&#34;&gt;Signature Learning Experience&lt;/h2&gt;
-&lt;p&gt;Undergraduate students can pursue research experiences in ADAL as an &lt;a href=&#34;https://www.etown.edu/offices/registration-records/sle-list.aspx&#34;&gt;Signature Learning Experience&lt;/a&gt; (i.e. senior project) that can be counted towards your graduation credits. Possible courses under our supervision are:&lt;/p&gt;
+&lt;p&gt;Undergraduate students can pursue research experiences in ADAL as an 
+&lt;a href=&#34;https://www.etown.edu/offices/registration-records/sle-list.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Signature Learning Experience&lt;/a&gt; (i.e. senior project) that can be counted towards your graduation credits. Possible courses under our supervision are:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;EGR 401/402 Senior Project in Engineering I/II&lt;/li&gt;
 &lt;li&gt;CS 400 Projects in Computing&lt;/li&gt;
 &lt;li&gt;CS 495 Honors Projects in Computing&lt;/li&gt;
-&lt;li&gt;DS 452 Data Science Capstone.&lt;/li&gt;
+&lt;li&gt;DS 400/495 Data Science Capstone&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;summer-creative-arts-and-research-program&#34;&gt;Summer Creative Arts and Research Program&lt;/h2&gt;
-&lt;p&gt;Another way of participation is through the Summer Creative Arts and Research Program (&lt;a href=&#34;https://www.etown.edu/offices/research/summer-scholarship.aspx&#34;&gt;SCARP&lt;/a&gt;) from which you can get up to 10-week-long paid research work plus free meal and board on campus.&lt;/p&gt;
-&lt;p&gt;We welcome applications from computer science, engineering, mathematics, chemistry, biology or other related majors. Applicants should have proficient programming experience in Python (understanding another OOP language such as Java and C++ is a plus), and be familiar with software development environments and tools in Linux. The ideal applicants should also have taken &lt;em&gt;DS200 Intro to Data Science&lt;/em&gt; and &lt;em&gt;DS300 Data Mining&lt;/em&gt; offered by the Data Science Major at Etown College. The student researchers will be expected to work effectively both independently and in a team.&lt;/p&gt;
+&lt;p&gt;Another way of participation is through the Summer Creative Arts and Research Program (
+&lt;a href=&#34;https://www.etown.edu/offices/research/summer-scholarship.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SCARP&lt;/a&gt;) from which you can get up to 10-week-long paid research work plus free meal and board on campus.&lt;/p&gt;
+&lt;p&gt;We welcome applications from computer science, engineering, mathematics, chemistry, biology or other related majors. Applicants should have proficient programming experience in Python (understanding another OOP language such as Java and C++ is a plus), and be familiar with software development environments and tools in Linux. The ideal applicants should also have taken &lt;em&gt;CS 250 Foundations of AI and Data Science&lt;/em&gt; (formerly DS 200) and &lt;em&gt;CS 350 From Data Mining to Deep Learning&lt;/em&gt; (formerly DS 300) at Etown College. The student researchers will be expected to work effectively both independently and in a team.&lt;/p&gt;
 &lt;h2 id=&#34;other-opportunities&#34;&gt;Other Opportunities&lt;/h2&gt;
 &lt;p&gt;Projects funded by external funding agencies are available from time to time. Students could potentially work as research assistants during regular semesters, however the screening process is very strict in this category.&lt;/p&gt;
-&lt;p&gt;If you have any questions about the undergraduate research opportunities in our laboratory, please direct your message to &lt;a href=&#34;mailto:lip@etown.edu&#34;&gt;Dr. Li&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you have any questions about the undergraduate research opportunities in our laboratory, please direct your message to 
+&lt;a href=&#34;mailto:lip@etown.edu&#34;&gt;Dr. Li&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -135,7 +530,7 @@
 &lt;h4 id=&#34;project-duration&#34;&gt;Project Duration:&lt;/h4&gt;
 &lt;p&gt;10 Weeks&lt;/p&gt;
 &lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
-&lt;p&gt;Applying machine learning techniques to detect malicious encrypted network traffic has become a challenging research topic since traditional approaches based on studying network patterns fail to operate on encrypted data, especially without compromising the integrity of encryption. Traditional solutions to identify network threats fall into two major categories: 1) deep packet inspection and signatures; and 2) offline network pattern training. However, the first category is not applicable on encrypted traffic. Furthermore, solutions that work on decrypted network data will expose the privacy of the network users, and are computationally intensive. By passively monitoring malicious behaviors on a session-based level, the second category of traditional solutions demonstrate high accuracy and low false positives. However, extracting network data features and applying machine learning based classifiers “in-flight” are challenging due to the high computational power and low response latency requirements.&lt;/p&gt;
+&lt;p&gt;Applying machine learning techniques to detect malicious encrypted network traffic has become a challenging research topic since traditional approaches based on studying network patterns fail to operate on encrypted data, especially without compromising the integrity of encryption. Traditional solutions to identify network threats fall into two major categories: 1) deep packet inspection and signatures; and 2) offline network pattern training. However, the first category is not applicable on encrypted traffic. Furthermore, solutions that work on decrypted network data will expose the privacy of the network users, and are computationally intensive. By passively monitoring malicious behaviors on a session-based level, the second category of traditional solutions demonstrate high accuracy and low false positives. However, extracting network data features and applying machine learning based classifiers &amp;ldquo;in-flight&amp;rdquo; are challenging due to the high computational power and low response latency requirements.&lt;/p&gt;
 </description>
     </item>
     

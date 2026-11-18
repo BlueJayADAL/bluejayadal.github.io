@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edge AI | ADAL</title>
+    <link>https://bluejayadal.github.io/tags/edge-ai/</link>
+      <atom:link href="https://bluejayadal.github.io/tags/edge-ai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Edge AI</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© ADAL 2020-2026</copyright><lastBuildDate>Wed, 14 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bluejayadal.github.io/images/icon_hu6c51b60f519c5e3915202895fbbc8a02_35524_512x512_fill_lanczos_center_2.png</url>
+      <title>Edge AI</title>
+      <link>https://bluejayadal.github.io/tags/edge-ai/</link>
+    </image>
+    
+    <item>
+      <title>ARISE: AI-Powered At-Home Exercise for Older Adults</title>
+      <link>https://bluejayadal.github.io/project/arise/</link>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/project/arise/</guid>
+      <description>&lt;p&gt;ARISE, &lt;em&gt;An AI-powered Real-time Interactive Support for Exercise in Elderly Communities&lt;/em&gt;, was ADAL&amp;rsquo;s SCARP 2025 project.&lt;/p&gt;
+&lt;p&gt;ARISE is an AI-powered at-home exercise system for older adults. It combines lightweight pose estimation with voice interaction (offline automatic speech recognition, a local large language model and text-to-speech) to give real-time feedback and coaching during exercise sessions. The system is designed to run on low-power single-board computers such as the Raspberry Pi 5 with a Hailo-8 NPU and the NVIDIA Jetson Nano. All processing happens locally, so no data is sent to the cloud.&lt;/p&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Aaron Frist and Alex Roop, student researchers&lt;/li&gt;
+&lt;li&gt;Dr. Peilong Li, faculty mentor&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JayRadar: A Zero-Code Vision System for FIRST Robotics</title>
+      <link>https://bluejayadal.github.io/project/jayradar/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/project/jayradar/</guid>
+      <description>&lt;p&gt;JayRadar, &lt;em&gt;A Zero-Code and Coprocessor Agnostic Vision System for the FIRST Robotics Competition&lt;/em&gt;, was ADAL&amp;rsquo;s SCARP 2023 project.&lt;/p&gt;
+&lt;p&gt;JayRadar is an open-source Python vision pipeline program. Users can create, edit, tune, save and load pipelines built from a series of &amp;ldquo;pipes&amp;rdquo; that transform camera frames, including a YOLOv8-based object detection filter. Results are posted to the NetworkTables used by FIRST Robotics teams, and frames can be displayed locally or streamed to a web server.&lt;/p&gt;
+&lt;p&gt;A companion 
+&lt;a href=&#34;https://github.com/BlueJayADAL/SCARP2023-JayRadar-GUI&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YOLO C++ API with a GUI&lt;/a&gt; for real-time object detection was developed and tested on an NVIDIA Jetson Nano.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

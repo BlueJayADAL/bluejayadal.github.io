@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NLP | ADAL</title>
+    <link>https://bluejayadal.github.io/tags/nlp/</link>
+      <atom:link href="https://bluejayadal.github.io/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <description>NLP</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© ADAL 2020-2026</copyright><lastBuildDate>Sun, 09 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bluejayadal.github.io/images/icon_hu6c51b60f519c5e3915202895fbbc8a02_35524_512x512_fill_lanczos_center_2.png</url>
+      <title>NLP</title>
+      <link>https://bluejayadal.github.io/tags/nlp/</link>
+    </image>
+    
+    <item>
+      <title>RydeeNLP: Personalized Japanese Learning with NLP</title>
+      <link>https://bluejayadal.github.io/project/rydeenlp/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/project/rydeenlp/</guid>
+      <description>&lt;p&gt;RydeeNLP is a Japanese language learning system that integrates NLP techniques with educational technology to provide personalized learning experiences.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A word-swapping model creates a multi-tiered difficulty classification for Japanese nouns, verbs and adjectives.&lt;/li&gt;
+&lt;li&gt;Custom difficulty and paraphrase dictionaries inform adaptive translation models that adjust translations to the learner&amp;rsquo;s proficiency.&lt;/li&gt;
+&lt;li&gt;A web browser extension provides real-time, proficiency-matched translations and automatically populates a spaced-repetition flashcard system.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The work was presented at the ACM SIGCSE Technical Symposium 2025 Student Research Competition in Pittsburgh, PA.&lt;/p&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Yusuke Satani, student researcher&lt;/li&gt;
+&lt;li&gt;Dr. Peilong Li, faculty mentor&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

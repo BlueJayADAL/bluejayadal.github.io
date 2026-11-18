@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Federated Learning | ADAL</title>
+    <link>https://bluejayadal.github.io/tags/federated-learning/</link>
+      <atom:link href="https://bluejayadal.github.io/tags/federated-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Federated Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© ADAL 2020-2026</copyright><lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bluejayadal.github.io/images/icon_hu6c51b60f519c5e3915202895fbbc8a02_35524_512x512_fill_lanczos_center_2.png</url>
+      <title>Federated Learning</title>
+      <link>https://bluejayadal.github.io/tags/federated-learning/</link>
+    </image>
+    
+    <item>
+      <title>JayQuery: Privacy-Preserving Student Success Prediction</title>
+      <link>https://bluejayadal.github.io/project/jayquery/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/project/jayquery/</guid>
+      <description>&lt;p&gt;JayQuery was ADAL&amp;rsquo;s SCARP 2026 project on privacy-preserving student success prediction with federated learning.&lt;/p&gt;
+&lt;p&gt;Colleges are data-rich but insight-poor: FERPA regulations prevent offices such as the Registrar, Financial Aid and the learning management system from merging their student records into a single model. JayQuery uses &lt;strong&gt;vertical federated learning (VFL)&lt;/strong&gt;: separate data silos collaborate to train a dropout-risk predictor without ever sharing raw records. The silos align their records through a private set intersection (PSI) handshake, each trains a local &amp;ldquo;bottom&amp;rdquo; model, and a federated learning server combines their embeddings in a &amp;ldquo;top&amp;rdquo; model protected with differential-privacy noise.&lt;/p&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Alex Pellet, system architect and ML engineer&lt;/li&gt;
+&lt;li&gt;Wyatt Wilfong, privacy and security lead&lt;/li&gt;
+&lt;li&gt;Dr. Peilong Li, faculty mentor&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

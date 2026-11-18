@@ -44,9 +44,6 @@
 
   
   
-  
-  <script src="/js/mathjax-config.js"></script>
-  
 
   
   
@@ -177,9 +174,9 @@
 
       
       
-
+        
       
-        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+
       
     
       
@@ -215,8 +212,8 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu67d8132adf6916bc3e83a7d6cad86df0_8135_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu67d8132adf6916bc3e83a7d6cad86df0_8135_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu6c51b60f519c5e3915202895fbbc8a02_35524_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu6c51b60f519c5e3915202895fbbc8a02_35524_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="https://bluejayadal.github.io/project/aceta/">
 
@@ -229,9 +226,6 @@
   
   
   <meta property="twitter:card" content="summary_large_image">
-  
-  <meta property="twitter:site" content="@@LiPeilong">
-  <meta property="twitter:creator" content="@@LiPeilong">
   
   <meta property="og:site_name" content="ADAL">
   <meta property="og:url" content="https://bluejayadal.github.io/project/aceta/">
@@ -285,7 +279,7 @@
     "name": "ADAL",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://bluejayadal.github.io/images/icon_hu67d8132adf6916bc3e83a7d6cad86df0_8135_192x192_fill_lanczos_center_2.png"
+      "url": "https://bluejayadal.github.io/images/icon_hu6c51b60f519c5e3915202895fbbc8a02_35524_192x192_fill_lanczos_center_2.png"
     }
   },
   "description": "Classify encrypted network traffic with accelerated machine learning models."
@@ -716,11 +710,13 @@
 <p>Encrypted network traffic is the major form of the data transmitting over the Internet today. According to the statistics, 94% of all Google web traffic is encrypted as of July 2019. In 2019 alone, the encryption certificates issued per day is over 1 million. While protecting the privacy and providing security for enterprises, encryption technology also benefits evaders to secure their malicious activities.</p>
 <p>Traditional solutions to identify network threats fall into two major categories: 1) deep packet inspection and signatures; and 2) offline network pattern modeling. However, the first category is not applicable on encrypted traffic. Furthermore, solutions that work on decrypted network data will compromise the user privacy and data integrity, and are computationally intensive. By passively monitoring malicious behaviors on a session-based level, the second category of traditional solutions demonstrate high accuracy and low false positives. However, training machine learning models, and inferencing with effective models in a timely fashion are challenging due to the high computational power and low response latency requirements.</p>
 <p>With the recent adoption of network function virtualization (NFV) technology, enterprises start to deploy universal customer premises equipment (uCPE) on their network edge to perform complex network functionality including encrypted traffic analytics (ETA). Such uCPE equipments rely on commodity x86 platforms to enable virtual network functions provisioned without pre-configuration or manual operations. Meanwhile, recent innovation on x86 multicore systems, such as the Intel Data Analytics Acceleration Library (DAAL) for machine learning and the Intel OpenVINO toolkit for computer vision and neural networks, have enabled ETA to render faster training and inference and analyze larger data sets with available compute resources on x86 uCPE equipments. The library also exploits the next-generation processors such as Intel Xeon D to render optimal performance. By exploiting DAAL and OpenVINO, we can greatly accelerate the ETA speed without compromising performance.</p>
-<p>In this project, we propose to leverage Intel x86 multicore platforms with the aforementioned software to design an ETA system named <code>ACETA</code> with accelerated model training and inference. Specifically, we contribute in the three following aspects. 1) We seek to study the Cisco’s open-sourced ETA software named <code>Joy</code> as the reference design, and extend Joy with three new machine learning models and test them with a new open-source dataset. 2) We optimize the ETA pipeline in the proposed software package ACETA with multithreading and Intel software packages to render faster training and inference speed without sacrificing performance. 3) We conduct thorough performance evaluation and comparison between Joy and ACETA for future reference.</p>
+<p>In this project, we propose to leverage Intel x86 multicore platforms with the aforementioned software to design an ETA system named <code>ACETA</code> with accelerated model training and inference. Specifically, we contribute in the three following aspects. 1) We seek to study the Cisco&rsquo;s open-sourced ETA software named <code>Joy</code> as the reference design, and extend Joy with three new machine learning models and test them with a new open-source dataset. 2) We optimize the ETA pipeline in the proposed software package ACETA with multithreading and Intel software packages to render faster training and inference speed without sacrificing performance. 3) We conduct thorough performance evaluation and comparison between Joy and ACETA for future reference.</p>
 
     </div>
 
     
+
+
 
 
 
@@ -1208,8 +1204,14 @@ Principal Investigator, Faculty Mentor: …
 
 
   
+    
+  
 
 
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ieeexplore.ieee.org/abstract/document/9148798" target="_blank" rel="noopener">
+  PDF
+</a>
 
 
 
@@ -1286,14 +1288,12 @@ Principal Investigator, Faculty Mentor: …
       <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
 
       
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.4.4/mermaid.min.js" integrity="sha256-JEqEejGt4tR35L0a1zodzsV0/PJ6GIf7J4yDtywdrH8=" crossorigin="anonymous" title="mermaid"></script>
-      
 
       
         
         <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/python.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
         
       
 
@@ -1389,10 +1389,8 @@ Principal Investigator, Faculty Mentor: …
   
   <div class="container">
     <footer class="site-footer">
-  
-
   <p class="powered-by">
-    © ADAL 2020 &middot; 
+    © ADAL 2020-2026 &middot; 
 
     Powered by the
     <a href="https://bluejayadal.github.io/" target="_blank" rel="noopener">ADAL Team</a> at

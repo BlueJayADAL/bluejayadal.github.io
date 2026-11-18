@@ -3,58 +3,430 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://bluejayadal.github.io/authors/peilong-li/</loc>
+    <lastmod>2025-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/authors/alex-pellet/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/authors/wyatt-wilfong/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/authors/aaron-frist/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/authors/alex-roop/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/authors/yusuke-satani/</loc>
+    <lastmod>2025-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/authors/ethan-weitkamp/</loc>
+    <lastmod>2024-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/authors/adam-omundsen/</loc>
+    <lastmod>2024-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/authors/adam-geltz/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/authors/reilly-sollenberger/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/authors/connor-dileo/</loc>
+    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/authors/matthew-grohotolski/</loc>
+    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/authors/derek-manning/</loc>
+    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/authors/christoph-schartner/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/authors/jonathan-wiseman/</loc>
+  </url>
+  
+  <url>
     <loc>https://bluejayadal.github.io/authors/admin/</loc>
-    <lastmod>2020-03-12T11:32:06-04:00</lastmod>
+    <lastmod>2026-11-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bluejayadal.github.io/</loc>
-    <lastmod>2020-03-12T11:32:06-04:00</lastmod>
+    <lastmod>2026-11-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/post/2026-faculty-grant/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/authors/</loc>
+    <lastmod>2026-11-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/categories/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/tags/grant/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/categories/grant/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/tags/llm/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/project/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/post/</loc>
+    <lastmod>2026-11-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/project/etown-llm/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/tags/</loc>
+    <lastmod>2026-11-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/post/2026-scarp-grant/</loc>
+    <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/tags/federated-learning/</loc>
+    <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/project/jayquery/</loc>
+    <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/tags/machine-learning/</loc>
+    <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/tags/privacy/</loc>
+    <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/tags/scarp/</loc>
+    <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/tags/award/</loc>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/categories/award/</loc>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/post/2026-best-advisor/</loc>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/project/arise/</loc>
+    <lastmod>2025-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/tags/computer-vision/</loc>
+    <lastmod>2025-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/tags/edge-ai/</loc>
+    <lastmod>2025-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/post/2025-scarp-grant/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/publication_types/1/</loc>
+    <lastmod>2025-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/categories/conference/</loc>
+    <lastmod>2025-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/tags/paper/</loc>
+    <lastmod>2025-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/publication_types/</loc>
+    <lastmod>2025-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/publication/</loc>
+    <lastmod>2025-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/post/2025-sigcse-rydeenlp/</loc>
+    <lastmod>2025-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/publication/2025-sigcse-rydeenlp/</loc>
+    <lastmod>2025-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/tags/education/</loc>
+    <lastmod>2025-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/tags/nlp/</loc>
+    <lastmod>2025-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/project/rydeenlp/</loc>
+    <lastmod>2025-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/post/2024-best-advisor/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/authors/jingwen-wang/</loc>
+    <lastmod>2024-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/post/2024-ccnc-malbuster/</loc>
+    <lastmod>2024-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/publication/2024-ccnc-malbuster/</loc>
+    <lastmod>2024-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/post/2023-google-cloud-teaching/</loc>
+    <lastmod>2023-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/post/2023-associate-professor/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/project/jayradar/</loc>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/post/2023-scarp-grant/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/publication_types/3/</loc>
+    <lastmod>2023-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/post/2023-maliot-preprint/</loc>
+    <lastmod>2023-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/publication/2023-arxiv-maliot/</loc>
+    <lastmod>2023-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/post/2022-google-cloud-awards/</loc>
+    <lastmod>2022-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/tags/big-data/</loc>
+    <lastmod>2022-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/tags/cybersecurity/</loc>
+    <lastmod>2022-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/tags/deep-learning/</loc>
+    <lastmod>2022-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/tags/iot/</loc>
+    <lastmod>2022-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/project/iotsec/</loc>
+    <lastmod>2022-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/project/netsec/</loc>
+    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/post/2022-scarp-grant/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/post/2022-intel-grant/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/tags/data-mining/</loc>
+    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/project/datascope/</loc>
+    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/tags/iiot/</loc>
+    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/post/2021-scarp-grant/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/post/2021-merit-award/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/publication/2020-nsyss/</loc>
+    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/authors/onur-barut/</loc>
+    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/post/2020-nsyss-paper/</loc>
+    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/authors/tong-zhang/</loc>
+    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/authors/yan-luo/</loc>
+    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/project/anta/</loc>
+    <lastmod>2020-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/tags/eta/</loc>
+    <lastmod>2020-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/publication/2020-icc-aceta/</loc>
+    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/authors/weigang-li/</loc>
+    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/authors/xiaoban-wu/</loc>
+    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bluejayadal.github.io/post/2020-merit-award/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bluejayadal.github.io/post/2020-scarp-grant/</loc>
     <lastmod>2020-03-11T09:32:15-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bluejayadal.github.io/authors/</loc>
-    <lastmod>2020-03-12T11:32:06-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bluejayadal.github.io/categories/</loc>
-    <lastmod>2020-03-12T11:32:06-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bluejayadal.github.io/categories/grant/</loc>
-    <lastmod>2020-03-12T11:32:06-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bluejayadal.github.io/tags/grant/</loc>
-    <lastmod>2020-03-12T11:32:06-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bluejayadal.github.io/post/</loc>
-    <lastmod>2020-03-12T11:32:06-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bluejayadal.github.io/tags/scarp/</loc>
-    <lastmod>2020-03-12T11:32:06-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bluejayadal.github.io/tags/</loc>
-    <lastmod>2020-03-12T11:32:06-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bluejayadal.github.io/categories/conference/</loc>
-    <lastmod>2020-03-04T15:31:13-05:00</lastmod>
   </url>
   
   <url>
@@ -69,11 +441,6 @@
   
   <url>
     <loc>https://bluejayadal.github.io/project/etown-spider/</loc>
-    <lastmod>2020-03-03T22:56:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bluejayadal.github.io/project/</loc>
     <lastmod>2020-03-03T22:56:14-05:00</lastmod>
   </url>
   
@@ -93,78 +460,13 @@
   </url>
   
   <url>
-    <loc>https://bluejayadal.github.io/tags/eta/</loc>
-    <lastmod>2020-03-03T22:55:15-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bluejayadal.github.io/tags/machine-learning/</loc>
-    <lastmod>2020-03-03T22:55:15-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bluejayadal.github.io/authors/derek-manning/</loc>
-    <lastmod>2020-03-03T22:48:13-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bluejayadal.github.io/authors/peilong-li/</loc>
-    <lastmod>2020-03-03T22:48:13-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bluejayadal.github.io/publication_types/1/</loc>
-    <lastmod>2020-03-03T22:48:13-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bluejayadal.github.io/publication/2020-icc-aceta/</loc>
-    <lastmod>2020-03-03T22:48:13-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bluejayadal.github.io/publication_types/</loc>
-    <lastmod>2020-03-03T22:48:13-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bluejayadal.github.io/publication/</loc>
-    <lastmod>2020-03-03T22:48:13-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bluejayadal.github.io/authors/tong-zhang/</loc>
-    <lastmod>2020-03-03T22:48:13-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bluejayadal.github.io/authors/weigang-li/</loc>
-    <lastmod>2020-03-03T22:48:13-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bluejayadal.github.io/authors/xiaoban-wu/</loc>
-    <lastmod>2020-03-03T22:48:13-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bluejayadal.github.io/authors/yan-luo/</loc>
-    <lastmod>2020-03-03T22:48:13-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bluejayadal.github.io/post/join-us/</loc>
-    <lastmod>2020-03-03T18:16:49-05:00</lastmod>
+    <lastmod>2026-11-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://bluejayadal.github.io/tags/recruitment/</loc>
-    <lastmod>2020-03-03T18:16:49-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bluejayadal.github.io/tags/paper/</loc>
-    <lastmod>2020-03-04T15:47:50-05:00</lastmod>
+    <lastmod>2026-11-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -175,30 +477,6 @@
   <url>
     <loc>https://bluejayadal.github.io/post/2019-scarp-grant/</loc>
     <lastmod>2020-03-12T11:32:06-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bluejayadal.github.io/authors/christoph-schartner/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bluejayadal.github.io/authors/clay-buxton/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bluejayadal.github.io/authors/connor-dileo/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bluejayadal.github.io/authors/jonathan-wiseman/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bluejayadal.github.io/authors/kevin-carman/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bluejayadal.github.io/authors/matthew-grohotolski/</loc>
   </url>
   
   <url>

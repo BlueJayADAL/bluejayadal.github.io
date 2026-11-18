@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IIoT | ADAL</title>
+    <link>https://bluejayadal.github.io/tags/iiot/</link>
+      <atom:link href="https://bluejayadal.github.io/tags/iiot/index.xml" rel="self" type="application/rss+xml" />
+    <description>IIoT</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© ADAL 2020-2026</copyright><lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bluejayadal.github.io/images/icon_hu6c51b60f519c5e3915202895fbbc8a02_35524_512x512_fill_lanczos_center_2.png</url>
+      <title>IIoT</title>
+      <link>https://bluejayadal.github.io/tags/iiot/</link>
+    </image>
+    
+    <item>
+      <title>DataScope: Predictive Diagnosis in IIoT-enabled Smart Manufacturing</title>
+      <link>https://bluejayadal.github.io/project/datascope/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/project/datascope/</guid>
+      <description>&lt;p&gt;DataScope was ADAL&amp;rsquo;s SCARP 2021 project, &lt;em&gt;DataScope: Predictive Diagnosis in IIoT-enabled Smart Manufacturing&lt;/em&gt;, supported by Elizabethtown College&amp;rsquo;s Summer Creative Arts and Research Program.&lt;/p&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Adam Geltz and Reilly Sollenberger, data science student researchers&lt;/li&gt;
+&lt;li&gt;Dr. Peilong Li, research advisor&lt;/li&gt;
+&lt;li&gt;Industry mentors from CPNet (Harrisburg, PA) and HPI Resources, LLC (New Cumberland, PA)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,148 @@
     <link>https://bluejayadal.github.io/project/</link>
       <atom:link href="https://bluejayadal.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© ADAL 2020</copyright><lastBuildDate>Tue, 03 Mar 2020 22:56:14 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© ADAL 2020-2026</copyright><lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bluejayadal.github.io/images/icon_hu67d8132adf6916bc3e83a7d6cad86df0_8135_512x512_fill_lanczos_center_2.png</url>
+      <url>https://bluejayadal.github.io/images/icon_hu6c51b60f519c5e3915202895fbbc8a02_35524_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>https://bluejayadal.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>Self-Hosted LLM for Elizabethtown College</title>
+      <link>https://bluejayadal.github.io/project/etown-llm/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/project/etown-llm/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Building the Foundation: Student Research Internships for Prototyping Elizabethtown College&amp;rsquo;s Self-Hosted LLM System&lt;/em&gt; is supported by an Elizabethtown College Faculty Grant (July 2026 - June 2028). The project funds student research internships to prototype a self-hosted large language model (LLM) system for the college.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JayQuery: Privacy-Preserving Student Success Prediction</title>
+      <link>https://bluejayadal.github.io/project/jayquery/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/project/jayquery/</guid>
+      <description>&lt;p&gt;JayQuery was ADAL&amp;rsquo;s SCARP 2026 project on privacy-preserving student success prediction with federated learning.&lt;/p&gt;
+&lt;p&gt;Colleges are data-rich but insight-poor: FERPA regulations prevent offices such as the Registrar, Financial Aid and the learning management system from merging their student records into a single model. JayQuery uses &lt;strong&gt;vertical federated learning (VFL)&lt;/strong&gt;: separate data silos collaborate to train a dropout-risk predictor without ever sharing raw records. The silos align their records through a private set intersection (PSI) handshake, each trains a local &amp;ldquo;bottom&amp;rdquo; model, and a federated learning server combines their embeddings in a &amp;ldquo;top&amp;rdquo; model protected with differential-privacy noise.&lt;/p&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Alex Pellet, system architect and ML engineer&lt;/li&gt;
+&lt;li&gt;Wyatt Wilfong, privacy and security lead&lt;/li&gt;
+&lt;li&gt;Dr. Peilong Li, faculty mentor&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ARISE: AI-Powered At-Home Exercise for Older Adults</title>
+      <link>https://bluejayadal.github.io/project/arise/</link>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/project/arise/</guid>
+      <description>&lt;p&gt;ARISE, &lt;em&gt;An AI-powered Real-time Interactive Support for Exercise in Elderly Communities&lt;/em&gt;, was ADAL&amp;rsquo;s SCARP 2025 project.&lt;/p&gt;
+&lt;p&gt;ARISE is an AI-powered at-home exercise system for older adults. It combines lightweight pose estimation with voice interaction (offline automatic speech recognition, a local large language model and text-to-speech) to give real-time feedback and coaching during exercise sessions. The system is designed to run on low-power single-board computers such as the Raspberry Pi 5 with a Hailo-8 NPU and the NVIDIA Jetson Nano. All processing happens locally, so no data is sent to the cloud.&lt;/p&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Aaron Frist and Alex Roop, student researchers&lt;/li&gt;
+&lt;li&gt;Dr. Peilong Li, faculty mentor&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RydeeNLP: Personalized Japanese Learning with NLP</title>
+      <link>https://bluejayadal.github.io/project/rydeenlp/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/project/rydeenlp/</guid>
+      <description>&lt;p&gt;RydeeNLP is a Japanese language learning system that integrates NLP techniques with educational technology to provide personalized learning experiences.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A word-swapping model creates a multi-tiered difficulty classification for Japanese nouns, verbs and adjectives.&lt;/li&gt;
+&lt;li&gt;Custom difficulty and paraphrase dictionaries inform adaptive translation models that adjust translations to the learner&amp;rsquo;s proficiency.&lt;/li&gt;
+&lt;li&gt;A web browser extension provides real-time, proficiency-matched translations and automatically populates a spaced-repetition flashcard system.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The work was presented at the ACM SIGCSE Technical Symposium 2025 Student Research Competition in Pittsburgh, PA.&lt;/p&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Yusuke Satani, student researcher&lt;/li&gt;
+&lt;li&gt;Dr. Peilong Li, faculty mentor&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JayRadar: A Zero-Code Vision System for FIRST Robotics</title>
+      <link>https://bluejayadal.github.io/project/jayradar/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/project/jayradar/</guid>
+      <description>&lt;p&gt;JayRadar, &lt;em&gt;A Zero-Code and Coprocessor Agnostic Vision System for the FIRST Robotics Competition&lt;/em&gt;, was ADAL&amp;rsquo;s SCARP 2023 project.&lt;/p&gt;
+&lt;p&gt;JayRadar is an open-source Python vision pipeline program. Users can create, edit, tune, save and load pipelines built from a series of &amp;ldquo;pipes&amp;rdquo; that transform camera frames, including a YOLOv8-based object detection filter. Results are posted to the NetworkTables used by FIRST Robotics teams, and frames can be displayed locally or streamed to a web server.&lt;/p&gt;
+&lt;p&gt;A companion 
+&lt;a href=&#34;https://github.com/BlueJayADAL/SCARP2023-JayRadar-GUI&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YOLO C++ API with a GUI&lt;/a&gt; for real-time object detection was developed and tested on an NVIDIA Jetson Nano.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IoTSec: Scalable, Real-time Malware Detection for Smart Environments</title>
+      <link>https://bluejayadal.github.io/project/iotsec/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/project/iotsec/</guid>
+      <description>&lt;p&gt;IoTSec, &lt;em&gt;Edge Network Malware Detection with Deep Learning for Smart Home&lt;/em&gt;, was funded by a Google Cloud Research Award (2022-2023).&lt;/p&gt;
+&lt;p&gt;ADAL&amp;rsquo;s work in this area includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;MalIoT&lt;/strong&gt;, a scalable, end-to-end network traffic analysis system that detects IoT malware traffic in real time. It uses Apache Kafka and Apache Spark to scale with the number of IoT devices and Intel&amp;rsquo;s oneAPI software stack to accelerate model inference.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MalBuster&lt;/strong&gt;, a scalable and real-time malware detection system for IoT devices in smart homes, communities and cities. It compares a suite of machine learning and deep learning models and uses a drift adaptation algorithm to keep pace with a changing malware landscape.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ethan Weitkamp, Yusuke Satani and Adam Omundsen, student researchers&lt;/li&gt;
+&lt;li&gt;Dr. Jingwen Wang and Dr. Peilong Li, Elizabethtown College&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NetSec: Accelerated Malware Detection with Machine Learning</title>
+      <link>https://bluejayadal.github.io/project/netsec/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/project/netsec/</guid>
+      <description>&lt;p&gt;NetSec, &lt;em&gt;Accelerated Malware Detection in Executable Files with Machine Learning&lt;/em&gt;, was supported by a SCARP 2022 grant and an Intel Academic Grant (2022), on which Dr. Li served as Co-PI.&lt;/p&gt;
+&lt;p&gt;Student teams built and evaluated machine-learning pipelines for malware detection, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;a streaming inference pipeline using Apache Kafka on the IoT-23 network traffic dataset, and&lt;/li&gt;
+&lt;li&gt;an Intel-sponsored project (Fall 2022) comparing Random Forest, LightGBM and convolutional neural network models for classifying malicious and benign IoT network packets on the IoT-23 and TON_IoT datasets.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DataScope: Predictive Diagnosis in IIoT-enabled Smart Manufacturing</title>
+      <link>https://bluejayadal.github.io/project/datascope/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/project/datascope/</guid>
+      <description>&lt;p&gt;DataScope was ADAL&amp;rsquo;s SCARP 2021 project, &lt;em&gt;DataScope: Predictive Diagnosis in IIoT-enabled Smart Manufacturing&lt;/em&gt;, supported by Elizabethtown College&amp;rsquo;s Summer Creative Arts and Research Program.&lt;/p&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Adam Geltz and Reilly Sollenberger, data science student researchers&lt;/li&gt;
+&lt;li&gt;Dr. Peilong Li, research advisor&lt;/li&gt;
+&lt;li&gt;Industry mentors from CPNet (Harrisburg, PA) and HPI Resources, LLC (New Cumberland, PA)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANTA: Machine Learning vs. Deep Learning for Network Traffic Analysis</title>
+      <link>https://bluejayadal.github.io/project/anta/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/project/anta/</guid>
+      <description>&lt;p&gt;ANTA (Accelerated Network Traffic Analytics) was ADAL&amp;rsquo;s SCARP 2020 project, &lt;em&gt;A Performance Study between Machine Learning and Deep Learning Methods on Network Traffic Analysis&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The team studied the problem of detecting TLS-encrypted malware using flow metadata and TLS features. They benchmarked a suite of widely used machine learning and deep learning models on two malware flow datasets, measuring classification accuracy as well as run-time performance (throughput, CPU and RAM utilization), and accelerated the detectors with Intel DAAL and OpenVINO.&lt;/p&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Matthew Grohotolski and Connor DiLeo, student researchers&lt;/li&gt;
+&lt;li&gt;Dr. Peilong Li, faculty mentor&lt;/li&gt;
+&lt;li&gt;Collaborators: Dr. Yan Luo and Onur Barut (University of Massachusetts Lowell) and Tong Zhang (Intel)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Etown Crawler</title>
@@ -29,7 +165,7 @@
 &lt;p&gt;Encrypted network traffic is the major form of the data transmitting over the Internet today. According to the statistics, 94% of all Google web traffic is encrypted as of July 2019. In 2019 alone, the encryption certificates issued per day is over 1 million. While protecting the privacy and providing security for enterprises, encryption technology also benefits evaders to secure their malicious activities.&lt;/p&gt;
 &lt;p&gt;Traditional solutions to identify network threats fall into two major categories: 1) deep packet inspection and signatures; and 2) offline network pattern modeling. However, the first category is not applicable on encrypted traffic. Furthermore, solutions that work on decrypted network data will compromise the user privacy and data integrity, and are computationally intensive. By passively monitoring malicious behaviors on a session-based level, the second category of traditional solutions demonstrate high accuracy and low false positives. However, training machine learning models, and inferencing with effective models in a timely fashion are challenging due to the high computational power and low response latency requirements.&lt;/p&gt;
 &lt;p&gt;With the recent adoption of network function virtualization (NFV) technology, enterprises start to deploy universal customer premises equipment (uCPE) on their network edge to perform complex network functionality including encrypted traffic analytics (ETA). Such uCPE equipments rely on commodity x86 platforms to enable virtual network functions provisioned without pre-configuration or manual operations. Meanwhile, recent innovation on x86 multicore systems, such as the Intel Data Analytics Acceleration Library (DAAL) for machine learning and the Intel OpenVINO toolkit for computer vision and neural networks, have enabled ETA to render faster training and inference and analyze larger data sets with available compute resources on x86 uCPE equipments. The library also exploits the next-generation processors such as Intel Xeon D to render optimal performance. By exploiting DAAL and OpenVINO, we can greatly accelerate the ETA speed without compromising performance.&lt;/p&gt;
-&lt;p&gt;In this project, we propose to leverage Intel x86 multicore platforms with the aforementioned software to design an ETA system named &lt;code&gt;ACETA&lt;/code&gt; with accelerated model training and inference. Specifically, we contribute in the three following aspects. 1) We seek to study the Cisco’s open-sourced ETA software named &lt;code&gt;Joy&lt;/code&gt; as the reference design, and extend Joy with three new machine learning models and test them with a new open-source dataset. 2) We optimize the ETA pipeline in the proposed software package ACETA with multithreading and Intel software packages to render faster training and inference speed without sacrificing performance. 3) We conduct thorough performance evaluation and comparison between Joy and ACETA for future reference.&lt;/p&gt;
+&lt;p&gt;In this project, we propose to leverage Intel x86 multicore platforms with the aforementioned software to design an ETA system named &lt;code&gt;ACETA&lt;/code&gt; with accelerated model training and inference. Specifically, we contribute in the three following aspects. 1) We seek to study the Cisco&amp;rsquo;s open-sourced ETA software named &lt;code&gt;Joy&lt;/code&gt; as the reference design, and extend Joy with three new machine learning models and test them with a new open-source dataset. 2) We optimize the ETA pipeline in the proposed software package ACETA with multithreading and Intel software packages to render faster training and inference speed without sacrificing performance. 3) We conduct thorough performance evaluation and comparison between Joy and ACETA for future reference.&lt;/p&gt;
 </description>
     </item>
     

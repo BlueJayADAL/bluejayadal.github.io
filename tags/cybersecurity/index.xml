@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cybersecurity | ADAL</title>
+    <link>https://bluejayadal.github.io/tags/cybersecurity/</link>
+      <atom:link href="https://bluejayadal.github.io/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cybersecurity</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© ADAL 2020-2026</copyright><lastBuildDate>Fri, 15 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bluejayadal.github.io/images/icon_hu6c51b60f519c5e3915202895fbbc8a02_35524_512x512_fill_lanczos_center_2.png</url>
+      <title>Cybersecurity</title>
+      <link>https://bluejayadal.github.io/tags/cybersecurity/</link>
+    </image>
+    
+    <item>
+      <title>IoTSec: Scalable, Real-time Malware Detection for Smart Environments</title>
+      <link>https://bluejayadal.github.io/project/iotsec/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/project/iotsec/</guid>
+      <description>&lt;p&gt;IoTSec, &lt;em&gt;Edge Network Malware Detection with Deep Learning for Smart Home&lt;/em&gt;, was funded by a Google Cloud Research Award (2022-2023).&lt;/p&gt;
+&lt;p&gt;ADAL&amp;rsquo;s work in this area includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;MalIoT&lt;/strong&gt;, a scalable, end-to-end network traffic analysis system that detects IoT malware traffic in real time. It uses Apache Kafka and Apache Spark to scale with the number of IoT devices and Intel&amp;rsquo;s oneAPI software stack to accelerate model inference.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MalBuster&lt;/strong&gt;, a scalable and real-time malware detection system for IoT devices in smart homes, communities and cities. It compares a suite of machine learning and deep learning models and uses a drift adaptation algorithm to keep pace with a changing malware landscape.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ethan Weitkamp, Yusuke Satani and Adam Omundsen, student researchers&lt;/li&gt;
+&lt;li&gt;Dr. Jingwen Wang and Dr. Peilong Li, Elizabethtown College&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NetSec: Accelerated Malware Detection with Machine Learning</title>
+      <link>https://bluejayadal.github.io/project/netsec/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/project/netsec/</guid>
+      <description>&lt;p&gt;NetSec, &lt;em&gt;Accelerated Malware Detection in Executable Files with Machine Learning&lt;/em&gt;, was supported by a SCARP 2022 grant and an Intel Academic Grant (2022), on which Dr. Li served as Co-PI.&lt;/p&gt;
+&lt;p&gt;Student teams built and evaluated machine-learning pipelines for malware detection, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;a streaming inference pipeline using Apache Kafka on the IoT-23 network traffic dataset, and&lt;/li&gt;
+&lt;li&gt;an Intel-sponsored project (Fall 2022) comparing Random Forest, LightGBM and convolutional neural network models for classifying malicious and benign IoT network packets on the IoT-23 and TON_IoT datasets.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

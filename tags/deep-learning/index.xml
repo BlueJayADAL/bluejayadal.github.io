@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | ADAL</title>
+    <link>https://bluejayadal.github.io/tags/deep-learning/</link>
+      <atom:link href="https://bluejayadal.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© ADAL 2020-2026</copyright><lastBuildDate>Fri, 15 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bluejayadal.github.io/images/icon_hu6c51b60f519c5e3915202895fbbc8a02_35524_512x512_fill_lanczos_center_2.png</url>
+      <title>Deep Learning</title>
+      <link>https://bluejayadal.github.io/tags/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>IoTSec: Scalable, Real-time Malware Detection for Smart Environments</title>
+      <link>https://bluejayadal.github.io/project/iotsec/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/project/iotsec/</guid>
+      <description>&lt;p&gt;IoTSec, &lt;em&gt;Edge Network Malware Detection with Deep Learning for Smart Home&lt;/em&gt;, was funded by a Google Cloud Research Award (2022-2023).&lt;/p&gt;
+&lt;p&gt;ADAL&amp;rsquo;s work in this area includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;MalIoT&lt;/strong&gt;, a scalable, end-to-end network traffic analysis system that detects IoT malware traffic in real time. It uses Apache Kafka and Apache Spark to scale with the number of IoT devices and Intel&amp;rsquo;s oneAPI software stack to accelerate model inference.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MalBuster&lt;/strong&gt;, a scalable and real-time malware detection system for IoT devices in smart homes, communities and cities. It compares a suite of machine learning and deep learning models and uses a drift adaptation algorithm to keep pace with a changing malware landscape.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ethan Weitkamp, Yusuke Satani and Adam Omundsen, student researchers&lt;/li&gt;
+&lt;li&gt;Dr. Jingwen Wang and Dr. Peilong Li, Elizabethtown College&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANTA: Machine Learning vs. Deep Learning for Network Traffic Analysis</title>
+      <link>https://bluejayadal.github.io/project/anta/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/project/anta/</guid>
+      <description>&lt;p&gt;ANTA (Accelerated Network Traffic Analytics) was ADAL&amp;rsquo;s SCARP 2020 project, &lt;em&gt;A Performance Study between Machine Learning and Deep Learning Methods on Network Traffic Analysis&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The team studied the problem of detecting TLS-encrypted malware using flow metadata and TLS features. They benchmarked a suite of widely used machine learning and deep learning models on two malware flow datasets, measuring classification accuracy as well as run-time performance (throughput, CPU and RAM utilization), and accelerated the detectors with Intel DAAL and OpenVINO.&lt;/p&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Matthew Grohotolski and Connor DiLeo, student researchers&lt;/li&gt;
+&lt;li&gt;Dr. Peilong Li, faculty mentor&lt;/li&gt;
+&lt;li&gt;Collaborators: Dr. Yan Luo and Onur Barut (University of Massachusetts Lowell) and Tong Zhang (Intel)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

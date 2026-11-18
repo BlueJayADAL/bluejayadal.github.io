@@ -5,12 +5,197 @@
     <link>https://bluejayadal.github.io/tags/scarp/</link>
       <atom:link href="https://bluejayadal.github.io/tags/scarp/index.xml" rel="self" type="application/rss+xml" />
     <description>SCARP</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© ADAL 2020</copyright><lastBuildDate>Wed, 11 Mar 2020 09:32:15 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© ADAL 2020-2026</copyright><lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bluejayadal.github.io/images/icon_hu67d8132adf6916bc3e83a7d6cad86df0_8135_512x512_fill_lanczos_center_2.png</url>
+      <url>https://bluejayadal.github.io/images/icon_hu6c51b60f519c5e3915202895fbbc8a02_35524_512x512_fill_lanczos_center_2.png</url>
       <title>SCARP</title>
       <link>https://bluejayadal.github.io/tags/scarp/</link>
     </image>
+    
+    <item>
+      <title>ADAL Receives a 2026 SCARP Grant</title>
+      <link>https://bluejayadal.github.io/post/2026-scarp-grant/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/post/2026-scarp-grant/</guid>
+      <description>&lt;h2 id=&#34;project-name&#34;&gt;Project Name:&lt;/h2&gt;
+&lt;p&gt;JayQuery: Privacy-Preserving Student Success Prediction with Federated Learning&lt;/p&gt;
+&lt;h4 id=&#34;principal-investigator-faculty-mentor&#34;&gt;Principal Investigator, Faculty Mentor:&lt;/h4&gt;
+&lt;p&gt;Dr. Peilong Li&lt;/p&gt;
+&lt;h4 id=&#34;student-researchers&#34;&gt;Student Researchers:&lt;/h4&gt;
+&lt;p&gt;Alex Pellet, Wyatt Wilfong&lt;/p&gt;
+&lt;h4 id=&#34;grant-amount&#34;&gt;Grant Amount:&lt;/h4&gt;
+&lt;p&gt;$15,264.08&lt;/p&gt;
+&lt;h4 id=&#34;project-period&#34;&gt;Project Period:&lt;/h4&gt;
+&lt;p&gt;Summer 2026&lt;/p&gt;
+&lt;p&gt;Learn more on the 
+&lt;a href=&#34;https://bluejayadal.github.io/project/jayquery/&#34;&gt;project page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JayQuery: Privacy-Preserving Student Success Prediction</title>
+      <link>https://bluejayadal.github.io/project/jayquery/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/project/jayquery/</guid>
+      <description>&lt;p&gt;JayQuery was ADAL&amp;rsquo;s SCARP 2026 project on privacy-preserving student success prediction with federated learning.&lt;/p&gt;
+&lt;p&gt;Colleges are data-rich but insight-poor: FERPA regulations prevent offices such as the Registrar, Financial Aid and the learning management system from merging their student records into a single model. JayQuery uses &lt;strong&gt;vertical federated learning (VFL)&lt;/strong&gt;: separate data silos collaborate to train a dropout-risk predictor without ever sharing raw records. The silos align their records through a private set intersection (PSI) handshake, each trains a local &amp;ldquo;bottom&amp;rdquo; model, and a federated learning server combines their embeddings in a &amp;ldquo;top&amp;rdquo; model protected with differential-privacy noise.&lt;/p&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Alex Pellet, system architect and ML engineer&lt;/li&gt;
+&lt;li&gt;Wyatt Wilfong, privacy and security lead&lt;/li&gt;
+&lt;li&gt;Dr. Peilong Li, faculty mentor&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ARISE: AI-Powered At-Home Exercise for Older Adults</title>
+      <link>https://bluejayadal.github.io/project/arise/</link>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/project/arise/</guid>
+      <description>&lt;p&gt;ARISE, &lt;em&gt;An AI-powered Real-time Interactive Support for Exercise in Elderly Communities&lt;/em&gt;, was ADAL&amp;rsquo;s SCARP 2025 project.&lt;/p&gt;
+&lt;p&gt;ARISE is an AI-powered at-home exercise system for older adults. It combines lightweight pose estimation with voice interaction (offline automatic speech recognition, a local large language model and text-to-speech) to give real-time feedback and coaching during exercise sessions. The system is designed to run on low-power single-board computers such as the Raspberry Pi 5 with a Hailo-8 NPU and the NVIDIA Jetson Nano. All processing happens locally, so no data is sent to the cloud.&lt;/p&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Aaron Frist and Alex Roop, student researchers&lt;/li&gt;
+&lt;li&gt;Dr. Peilong Li, faculty mentor&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ADAL Receives a 2025 SCARP Grant</title>
+      <link>https://bluejayadal.github.io/post/2025-scarp-grant/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/post/2025-scarp-grant/</guid>
+      <description>&lt;h2 id=&#34;project-name&#34;&gt;Project Name:&lt;/h2&gt;
+&lt;p&gt;ARISE - An AI-powered Real-time Interactive Support for Exercise in Elderly Communities&lt;/p&gt;
+&lt;h4 id=&#34;principal-investigator-faculty-mentor&#34;&gt;Principal Investigator, Faculty Mentor:&lt;/h4&gt;
+&lt;p&gt;Dr. Peilong Li&lt;/p&gt;
+&lt;h4 id=&#34;student-researchers&#34;&gt;Student Researchers:&lt;/h4&gt;
+&lt;p&gt;Aaron Frist, Alex Roop&lt;/p&gt;
+&lt;h4 id=&#34;grant-amount&#34;&gt;Grant Amount:&lt;/h4&gt;
+&lt;p&gt;$15,064.08&lt;/p&gt;
+&lt;h4 id=&#34;project-period&#34;&gt;Project Period:&lt;/h4&gt;
+&lt;p&gt;Summer 2025&lt;/p&gt;
+&lt;p&gt;Learn more on the 
+&lt;a href=&#34;https://bluejayadal.github.io/project/arise/&#34;&gt;project page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JayRadar: A Zero-Code Vision System for FIRST Robotics</title>
+      <link>https://bluejayadal.github.io/project/jayradar/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/project/jayradar/</guid>
+      <description>&lt;p&gt;JayRadar, &lt;em&gt;A Zero-Code and Coprocessor Agnostic Vision System for the FIRST Robotics Competition&lt;/em&gt;, was ADAL&amp;rsquo;s SCARP 2023 project.&lt;/p&gt;
+&lt;p&gt;JayRadar is an open-source Python vision pipeline program. Users can create, edit, tune, save and load pipelines built from a series of &amp;ldquo;pipes&amp;rdquo; that transform camera frames, including a YOLOv8-based object detection filter. Results are posted to the NetworkTables used by FIRST Robotics teams, and frames can be displayed locally or streamed to a web server.&lt;/p&gt;
+&lt;p&gt;A companion 
+&lt;a href=&#34;https://github.com/BlueJayADAL/SCARP2023-JayRadar-GUI&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YOLO C++ API with a GUI&lt;/a&gt; for real-time object detection was developed and tested on an NVIDIA Jetson Nano.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ADAL Receives a 2023 SCARP Grant</title>
+      <link>https://bluejayadal.github.io/post/2023-scarp-grant/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/post/2023-scarp-grant/</guid>
+      <description>&lt;h2 id=&#34;project-name&#34;&gt;Project Name:&lt;/h2&gt;
+&lt;p&gt;JayRadar: A Zero-Code and Coprocessor Agnostic Vision System for the FIRST Robotics Competition&lt;/p&gt;
+&lt;h4 id=&#34;principal-investigator-faculty-mentor&#34;&gt;Principal Investigator, Faculty Mentor:&lt;/h4&gt;
+&lt;p&gt;Dr. Peilong Li&lt;/p&gt;
+&lt;h4 id=&#34;grant-amount&#34;&gt;Grant Amount:&lt;/h4&gt;
+&lt;p&gt;$14,048&lt;/p&gt;
+&lt;h4 id=&#34;project-period&#34;&gt;Project Period:&lt;/h4&gt;
+&lt;p&gt;May - Aug. 2023&lt;/p&gt;
+&lt;p&gt;Learn more on the 
+&lt;a href=&#34;https://bluejayadal.github.io/project/jayradar/&#34;&gt;project page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NetSec: Accelerated Malware Detection with Machine Learning</title>
+      <link>https://bluejayadal.github.io/project/netsec/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/project/netsec/</guid>
+      <description>&lt;p&gt;NetSec, &lt;em&gt;Accelerated Malware Detection in Executable Files with Machine Learning&lt;/em&gt;, was supported by a SCARP 2022 grant and an Intel Academic Grant (2022), on which Dr. Li served as Co-PI.&lt;/p&gt;
+&lt;p&gt;Student teams built and evaluated machine-learning pipelines for malware detection, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;a streaming inference pipeline using Apache Kafka on the IoT-23 network traffic dataset, and&lt;/li&gt;
+&lt;li&gt;an Intel-sponsored project (Fall 2022) comparing Random Forest, LightGBM and convolutional neural network models for classifying malicious and benign IoT network packets on the IoT-23 and TON_IoT datasets.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ADAL Receives a 2022 SCARP Grant</title>
+      <link>https://bluejayadal.github.io/post/2022-scarp-grant/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/post/2022-scarp-grant/</guid>
+      <description>&lt;h2 id=&#34;project-name&#34;&gt;Project Name:&lt;/h2&gt;
+&lt;p&gt;NetSec: Accelerated Malware Detection in Executable Files with Machine Learning&lt;/p&gt;
+&lt;h4 id=&#34;principal-investigator-faculty-mentor&#34;&gt;Principal Investigator, Faculty Mentor:&lt;/h4&gt;
+&lt;p&gt;Dr. Peilong Li&lt;/p&gt;
+&lt;h4 id=&#34;grant-amount&#34;&gt;Grant Amount:&lt;/h4&gt;
+&lt;p&gt;$8,600&lt;/p&gt;
+&lt;h4 id=&#34;project-period&#34;&gt;Project Period:&lt;/h4&gt;
+&lt;p&gt;May - Aug. 2022&lt;/p&gt;
+&lt;p&gt;Learn more on the 
+&lt;a href=&#34;https://bluejayadal.github.io/project/netsec/&#34;&gt;project page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DataScope: Predictive Diagnosis in IIoT-enabled Smart Manufacturing</title>
+      <link>https://bluejayadal.github.io/project/datascope/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/project/datascope/</guid>
+      <description>&lt;p&gt;DataScope was ADAL&amp;rsquo;s SCARP 2021 project, &lt;em&gt;DataScope: Predictive Diagnosis in IIoT-enabled Smart Manufacturing&lt;/em&gt;, supported by Elizabethtown College&amp;rsquo;s Summer Creative Arts and Research Program.&lt;/p&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Adam Geltz and Reilly Sollenberger, data science student researchers&lt;/li&gt;
+&lt;li&gt;Dr. Peilong Li, research advisor&lt;/li&gt;
+&lt;li&gt;Industry mentors from CPNet (Harrisburg, PA) and HPI Resources, LLC (New Cumberland, PA)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ADAL Receives a 2021 SCARP Grant</title>
+      <link>https://bluejayadal.github.io/post/2021-scarp-grant/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/post/2021-scarp-grant/</guid>
+      <description>&lt;h2 id=&#34;project-name&#34;&gt;Project Name:&lt;/h2&gt;
+&lt;p&gt;DataScope: Predictive Diagnosis in IIoT-enabled Smart Manufacturing&lt;/p&gt;
+&lt;h4 id=&#34;principal-investigator-faculty-mentor&#34;&gt;Principal Investigator, Faculty Mentor:&lt;/h4&gt;
+&lt;p&gt;Dr. Peilong Li&lt;/p&gt;
+&lt;h4 id=&#34;student-researchers&#34;&gt;Student Researchers:&lt;/h4&gt;
+&lt;p&gt;Adam Geltz, Reilly Sollenberger&lt;/p&gt;
+&lt;h4 id=&#34;grant-amount&#34;&gt;Grant Amount:&lt;/h4&gt;
+&lt;p&gt;$9,640&lt;/p&gt;
+&lt;h4 id=&#34;project-period&#34;&gt;Project Period:&lt;/h4&gt;
+&lt;p&gt;May - Aug. 2021&lt;/p&gt;
+&lt;p&gt;The project was mentored together with industry partners from CPNet and HPI Resources, LLC.&lt;/p&gt;
+&lt;p&gt;Learn more on the 
+&lt;a href=&#34;https://bluejayadal.github.io/project/datascope/&#34;&gt;project page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANTA: Machine Learning vs. Deep Learning for Network Traffic Analysis</title>
+      <link>https://bluejayadal.github.io/project/anta/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/project/anta/</guid>
+      <description>&lt;p&gt;ANTA (Accelerated Network Traffic Analytics) was ADAL&amp;rsquo;s SCARP 2020 project, &lt;em&gt;A Performance Study between Machine Learning and Deep Learning Methods on Network Traffic Analysis&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The team studied the problem of detecting TLS-encrypted malware using flow metadata and TLS features. They benchmarked a suite of widely used machine learning and deep learning models on two malware flow datasets, measuring classification accuracy as well as run-time performance (throughput, CPU and RAM utilization), and accelerated the detectors with Intel DAAL and OpenVINO.&lt;/p&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Matthew Grohotolski and Connor DiLeo, student researchers&lt;/li&gt;
+&lt;li&gt;Dr. Peilong Li, faculty mentor&lt;/li&gt;
+&lt;li&gt;Collaborators: Dr. Yan Luo and Onur Barut (University of Massachusetts Lowell) and Tong Zhang (Intel)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>ADAL receives two 2020 SCARP Grants</title>
@@ -24,7 +209,7 @@
 &lt;h4 id=&#34;student-researchers&#34;&gt;Student Researchers:&lt;/h4&gt;
 &lt;p&gt;Matthew Grohotolski, Connor DiLeo&lt;/p&gt;
 &lt;h4 id=&#34;grant-amount&#34;&gt;Grant Amount:&lt;/h4&gt;
-&lt;p&gt;$10,240&lt;/p&gt;
+&lt;p&gt;$9,440&lt;/p&gt;
 &lt;h4 id=&#34;project-duration&#34;&gt;Project Duration:&lt;/h4&gt;
 &lt;p&gt;8 Weeks&lt;/p&gt;
 &lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
@@ -36,7 +221,7 @@
 &lt;h4 id=&#34;student-researchers-1&#34;&gt;Student Researchers:&lt;/h4&gt;
 &lt;p&gt;Grace Cuff, Jeffry Edmonds&lt;/p&gt;
 &lt;h4 id=&#34;grant-amount-1&#34;&gt;Grant Amount:&lt;/h4&gt;
-&lt;p&gt;$9,440&lt;/p&gt;
+&lt;p&gt;$10,240&lt;/p&gt;
 &lt;h4 id=&#34;project-duration-1&#34;&gt;Project Duration:&lt;/h4&gt;
 &lt;p&gt;8 Weeks&lt;/p&gt;
 &lt;h4 id=&#34;abstract-1&#34;&gt;Abstract&lt;/h4&gt;
@@ -60,7 +245,7 @@
 &lt;h4 id=&#34;project-duration&#34;&gt;Project Duration:&lt;/h4&gt;
 &lt;p&gt;10 Weeks&lt;/p&gt;
 &lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
-&lt;p&gt;Applying machine learning techniques to detect malicious encrypted network traffic has become a challenging research topic since traditional approaches based on studying network patterns fail to operate on encrypted data, especially without compromising the integrity of encryption. Traditional solutions to identify network threats fall into two major categories: 1) deep packet inspection and signatures; and 2) offline network pattern training. However, the first category is not applicable on encrypted traffic. Furthermore, solutions that work on decrypted network data will expose the privacy of the network users, and are computationally intensive. By passively monitoring malicious behaviors on a session-based level, the second category of traditional solutions demonstrate high accuracy and low false positives. However, extracting network data features and applying machine learning based classifiers “in-flight” are challenging due to the high computational power and low response latency requirements.&lt;/p&gt;
+&lt;p&gt;Applying machine learning techniques to detect malicious encrypted network traffic has become a challenging research topic since traditional approaches based on studying network patterns fail to operate on encrypted data, especially without compromising the integrity of encryption. Traditional solutions to identify network threats fall into two major categories: 1) deep packet inspection and signatures; and 2) offline network pattern training. However, the first category is not applicable on encrypted traffic. Furthermore, solutions that work on decrypted network data will expose the privacy of the network users, and are computationally intensive. By passively monitoring malicious behaviors on a session-based level, the second category of traditional solutions demonstrate high accuracy and low false positives. However, extracting network data features and applying machine learning based classifiers &amp;ldquo;in-flight&amp;rdquo; are challenging due to the high computational power and low response latency requirements.&lt;/p&gt;
 </description>
     </item>
     
