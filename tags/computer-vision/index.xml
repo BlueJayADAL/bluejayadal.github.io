@@ -21,7 +21,7 @@
 &lt;p&gt;ARISE is an AI-powered at-home exercise system for older adults. It combines lightweight pose estimation with voice interaction (offline automatic speech recognition, a local large language model and text-to-speech) to give real-time feedback and coaching during exercise sessions. The system is designed to run on low-power single-board computers such as the Raspberry Pi 5 with a Hailo-8 NPU and the NVIDIA Jetson Nano. All processing happens locally, so no data is sent to the cloud.&lt;/p&gt;
 &lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Aaron Frist and Alex Roop, student researchers&lt;/li&gt;
+&lt;li&gt;Aaron Frist and Alexander Roop, student researchers&lt;/li&gt;
 &lt;li&gt;Dr. Peilong Li, faculty mentor&lt;/li&gt;
 &lt;/ul&gt;
 </description>

@@ -5,7 +5,7 @@
     <link>https://bluejayadal.github.io/</link>
       <atom:link href="https://bluejayadal.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>ADAL</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© ADAL 2020-2026</copyright><lastBuildDate>Wed, 11 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© ADAL 2020-2026</copyright><lastBuildDate>Thu, 18 Feb 2027 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bluejayadal.github.io/images/icon_hu6c51b60f519c5e3915202895fbbc8a02_35524_512x512_fill_lanczos_center_2.png</url>
       <title>ADAL</title>
@@ -13,11 +13,19 @@
     </image>
     
     <item>
-      <title>Dr. Li Serves on the IEEE ICC Technical Program Committee</title>
+      <title>Training Across FERPA Silos: A Differentially Private Vertical Federated System for Dropout Prediction</title>
+      <link>https://bluejayadal.github.io/publication/2027-sigcse-jayquery/</link>
+      <pubDate>Thu, 18 Feb 2027 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/publication/2027-sigcse-jayquery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dr. Li Serves on the IEEE ICC 2027 Technical Program Committee</title>
       <link>https://bluejayadal.github.io/post/2026-icc-tpc/</link>
       <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
       <guid>https://bluejayadal.github.io/post/2026-icc-tpc/</guid>
-      <description>&lt;p&gt;Dr. Li is serving as a Technical Program Committee member for the IEEE International Conference on Communications (ICC). He reviewed six papers for the Communication and Information System Security track.&lt;/p&gt;
+      <description>&lt;p&gt;Dr. Li is serving as a Technical Program Committee member for the IEEE International Conference on Communications (ICC 2027) in Washington, DC. He reviewed six papers for the Communication and Information System Security track.&lt;/p&gt;
 </description>
     </item>
     
@@ -28,8 +36,9 @@
       <guid>https://bluejayadal.github.io/post/2026-sigcse-jayquery/</guid>
       <description>&lt;p&gt;Work from our SCARP 2026 project, 
 &lt;a href=&#34;https://bluejayadal.github.io/project/jayquery/&#34;&gt;JayQuery&lt;/a&gt;, was accepted as a Student Research Competition paper at the ACM Technical Symposium on Computer Science Education (SIGCSE TS 2027).&lt;/p&gt;
-&lt;p&gt;The paper, &amp;ldquo;Training Across FERPA Silos: A Differentially Private Vertical Federated System for Dropout Prediction&amp;rdquo; by Alexander Pellet, Wyatt Wilfong and Peilong Li, is scheduled in the ACM Student Research Competition session on Thursday, February 18, 2027 (
-&lt;a href=&#34;https://2027.sigcse-ts.acm.org/program/program-sigcse-ts-2027/?date=Thu%2018%20Feb%202027&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;program&lt;/a&gt;). Congratulations, Alex and Wyatt!&lt;/p&gt;
+&lt;p&gt;The paper, &amp;ldquo;
+&lt;a href=&#34;https://bluejayadal.github.io/publication/2027-sigcse-jayquery/&#34;&gt;Training Across FERPA Silos: A Differentially Private Vertical Federated System for Dropout Prediction&lt;/a&gt;&amp;rdquo; by Alexander Pellet, Wyatt Wilfong and Peilong Li, is scheduled in the ACM Student Research Competition session on Thursday, February 18, 2027 (
+&lt;a href=&#34;https://2027.sigcse-ts.acm.org/program/program-sigcse-ts-2027/?date=Thu%2018%20Feb%202027&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;program&lt;/a&gt;). Congratulations, Alexander and Wyatt!&lt;/p&gt;
 </description>
     </item>
     
@@ -43,11 +52,20 @@
     </item>
     
     <item>
+      <title>ARISE: Adaptive Multimodal Orchestration for Real-time Conversational Health Agents on Heterogeneous Edge Platforms</title>
+      <link>https://bluejayadal.github.io/publication/2026-qrs-arise/</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/publication/2026-qrs-arise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dr. Li Presents ARISE at QRS 2026 in Florence, Italy</title>
       <link>https://bluejayadal.github.io/post/2026-qrs-arise/</link>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://bluejayadal.github.io/post/2026-qrs-arise/</guid>
-      <description>&lt;p&gt;From July 22-25, 2026, Dr. Li presented our paper &amp;ldquo;ARISE: Adaptive Multimodal Orchestration for Real-time Conversational Health Agents on Heterogeneous Edge Platforms&amp;rdquo; at the 26th International Conference on Software Quality, Reliability, and Security (QRS 2026) in Florence, Italy. The paper comes out of our 
+      <description>&lt;p&gt;From July 22-25, 2026, Dr. Li presented our paper &amp;ldquo;
+&lt;a href=&#34;https://bluejayadal.github.io/publication/2026-qrs-arise/&#34;&gt;ARISE: Adaptive Multimodal Orchestration for Real-time Conversational Health Agents on Heterogeneous Edge Platforms&lt;/a&gt;&amp;rdquo; by Peilong Li, Alexander Roop, Aaron Frist, Jingwen Wang and Juan Huertas at the 26th International Conference on Software Quality, Reliability, and Security (QRS 2026) in Florence, Italy. The paper comes out of our 
 &lt;a href=&#34;https://bluejayadal.github.io/project/arise/&#34;&gt;ARISE project&lt;/a&gt; (SCARP 2025).&lt;/p&gt;
 &lt;p&gt;At the conference, Dr. Li also served as the session chair for the Special Track on Dependable IoT and Edge Software Systems.&lt;/p&gt;
 </description>
@@ -81,7 +99,7 @@
 &lt;h4 id=&#34;principal-investigator-faculty-mentor&#34;&gt;Principal Investigator, Faculty Mentor:&lt;/h4&gt;
 &lt;p&gt;Dr. Peilong Li&lt;/p&gt;
 &lt;h4 id=&#34;student-researchers&#34;&gt;Student Researchers:&lt;/h4&gt;
-&lt;p&gt;Alex Pellet, Wyatt Wilfong&lt;/p&gt;
+&lt;p&gt;Alexander Pellet, Wyatt Wilfong&lt;/p&gt;
 &lt;h4 id=&#34;grant-amount&#34;&gt;Grant Amount:&lt;/h4&gt;
 &lt;p&gt;$15,264.08&lt;/p&gt;
 &lt;h4 id=&#34;project-period&#34;&gt;Project Period:&lt;/h4&gt;
@@ -100,7 +118,7 @@
 &lt;p&gt;Colleges are data-rich but insight-poor: FERPA regulations prevent offices such as the Registrar, Financial Aid and the learning management system from merging their student records into a single model. JayQuery uses &lt;strong&gt;vertical federated learning (VFL)&lt;/strong&gt;: separate data silos collaborate to train a dropout-risk predictor without ever sharing raw records. The silos align their records through a private set intersection (PSI) handshake, each trains a local &amp;ldquo;bottom&amp;rdquo; model, and a federated learning server combines their embeddings in a &amp;ldquo;top&amp;rdquo; model protected with differential-privacy noise.&lt;/p&gt;
 &lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Alex Pellet, system architect and ML engineer&lt;/li&gt;
+&lt;li&gt;Alexander Pellet, system architect and ML engineer&lt;/li&gt;
 &lt;li&gt;Wyatt Wilfong, privacy and security lead&lt;/li&gt;
 &lt;li&gt;Dr. Peilong Li, faculty mentor&lt;/li&gt;
 &lt;/ul&gt;
@@ -125,7 +143,7 @@
 &lt;p&gt;ARISE is an AI-powered at-home exercise system for older adults. It combines lightweight pose estimation with voice interaction (offline automatic speech recognition, a local large language model and text-to-speech) to give real-time feedback and coaching during exercise sessions. The system is designed to run on low-power single-board computers such as the Raspberry Pi 5 with a Hailo-8 NPU and the NVIDIA Jetson Nano. All processing happens locally, so no data is sent to the cloud.&lt;/p&gt;
 &lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Aaron Frist and Alex Roop, student researchers&lt;/li&gt;
+&lt;li&gt;Aaron Frist and Alexander Roop, student researchers&lt;/li&gt;
 &lt;li&gt;Dr. Peilong Li, faculty mentor&lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -141,7 +159,7 @@
 &lt;h4 id=&#34;principal-investigator-faculty-mentor&#34;&gt;Principal Investigator, Faculty Mentor:&lt;/h4&gt;
 &lt;p&gt;Dr. Peilong Li&lt;/p&gt;
 &lt;h4 id=&#34;student-researchers&#34;&gt;Student Researchers:&lt;/h4&gt;
-&lt;p&gt;Aaron Frist, Alex Roop&lt;/p&gt;
+&lt;p&gt;Aaron Frist, Alexander Roop&lt;/p&gt;
 &lt;h4 id=&#34;grant-amount&#34;&gt;Grant Amount:&lt;/h4&gt;
 &lt;p&gt;$15,064.08&lt;/p&gt;
 &lt;h4 id=&#34;project-period&#34;&gt;Project Period:&lt;/h4&gt;

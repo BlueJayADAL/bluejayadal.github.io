@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ADAL</title>
+    <link>https://bluejayadal.github.io/authors/alexander-pellet/</link>
+      <atom:link href="https://bluejayadal.github.io/authors/alexander-pellet/index.xml" rel="self" type="application/rss+xml" />
+    <description>ADAL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© ADAL 2020-2026</copyright><lastBuildDate>Thu, 18 Feb 2027 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bluejayadal.github.io/images/icon_hu6c51b60f519c5e3915202895fbbc8a02_35524_512x512_fill_lanczos_center_2.png</url>
+      <title>ADAL</title>
+      <link>https://bluejayadal.github.io/authors/alexander-pellet/</link>
+    </image>
+    
+    <item>
+      <title>Training Across FERPA Silos: A Differentially Private Vertical Federated System for Dropout Prediction</title>
+      <link>https://bluejayadal.github.io/publication/2027-sigcse-jayquery/</link>
+      <pubDate>Thu, 18 Feb 2027 00:00:00 +0000</pubDate>
+      <guid>https://bluejayadal.github.io/publication/2027-sigcse-jayquery/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

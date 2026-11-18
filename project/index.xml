@@ -30,7 +30,7 @@
 &lt;p&gt;Colleges are data-rich but insight-poor: FERPA regulations prevent offices such as the Registrar, Financial Aid and the learning management system from merging their student records into a single model. JayQuery uses &lt;strong&gt;vertical federated learning (VFL)&lt;/strong&gt;: separate data silos collaborate to train a dropout-risk predictor without ever sharing raw records. The silos align their records through a private set intersection (PSI) handshake, each trains a local &amp;ldquo;bottom&amp;rdquo; model, and a federated learning server combines their embeddings in a &amp;ldquo;top&amp;rdquo; model protected with differential-privacy noise.&lt;/p&gt;
 &lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Alex Pellet, system architect and ML engineer&lt;/li&gt;
+&lt;li&gt;Alexander Pellet, system architect and ML engineer&lt;/li&gt;
 &lt;li&gt;Wyatt Wilfong, privacy and security lead&lt;/li&gt;
 &lt;li&gt;Dr. Peilong Li, faculty mentor&lt;/li&gt;
 &lt;/ul&gt;
@@ -46,7 +46,7 @@
 &lt;p&gt;ARISE is an AI-powered at-home exercise system for older adults. It combines lightweight pose estimation with voice interaction (offline automatic speech recognition, a local large language model and text-to-speech) to give real-time feedback and coaching during exercise sessions. The system is designed to run on low-power single-board computers such as the Raspberry Pi 5 with a Hailo-8 NPU and the NVIDIA Jetson Nano. All processing happens locally, so no data is sent to the cloud.&lt;/p&gt;
 &lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Aaron Frist and Alex Roop, student researchers&lt;/li&gt;
+&lt;li&gt;Aaron Frist and Alexander Roop, student researchers&lt;/li&gt;
 &lt;li&gt;Dr. Peilong Li, faculty mentor&lt;/li&gt;
 &lt;/ul&gt;
 </description>
